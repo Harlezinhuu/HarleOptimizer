@@ -1,0 +1,1441 @@
+# Harle Optimizer - English dictionary (pt<TAB>en)
+\nFim do log:	\nEnd of log:
+\nFim do log:\n	\nEnd of log:\n
+ Se aparecer a opção de chaves, escolha instalar as chaves de fábrica.	 If a key option appears, choose to install the factory default keys.
+ Só funciona depois de sair do modo Legacy (item acima).	 It only works after leaving Legacy mode (item above).
+ Vale depois de reiniciar o PC.	 Takes effect after restarting the PC.
+ a {0} MHz	 at {0} MHz
+ de {0}	 from {0}
+ depois de {0} ciclos de carga	 after {0} charge cycles
+ e 	 and 
+ e copiado: cole no Discord com Ctrl+V	 and copied: paste it on Discord with Ctrl+V
+ e desliga {0} que não fazem parte dele	 and turns off {0} that are not part of it
+ {0} de RAM liberados.	 {0} of RAM freed.
+. Pela estimativa do Harle, rende perto de {0}% de uma GeForce RTX 3060.	. By Harle's estimate, it delivers about {0}% of a GeForce RTX 3060.
+... e mais {0} valores.	... and {0} more values.
+1 ajuste de BIOS pendente neste PC	1 BIOS setting pending on this PC
+1 ação	1 action
+1 não saiu	1 was not removed
+32 GB ({0}) só fazem diferença para quem joga com navegador e Discord abertos, usa mods pesados ou simuladores. Em {1} a memória está cara: não é prioridade.	32 GB ({0}) only make a difference if you play with a browser and Discord open, use heavy mods or simulators. In {1} memory is expensive: it's not a priority.
+; {0} com {1:N0} GB livres	; {0} with {1:N0} GB free
+A 14ª geração é o fim desse soquete: a próxima troca de processador pede placa-mãe nova.	14th gen is the end of this socket: the next CPU upgrade needs a new motherboard.
+A BIOS deste PC está em ordem.	This PC's BIOS is in order.
+A BIOS é onde ficam os maiores ganhos gratuitos, e nenhum programa confiável consegue mudá-la de dentro do Windows: é você quem faz, uma vez só. Para entrar, reinicie e aperte {0} assim que a tela acender, ou use o botão abaixo. Mude um item por vez e salve com F10. Se algo der errado, a opção Load Optimized Defaults devolve tudo ao padrão.	The BIOS is where the biggest free gains are, and no trustworthy program can change it from inside Windows: you do it yourself, just once. To get in, restart and press {0} as soon as the screen turns on, or use the button below. Change one item at a time and save with F10. If something goes wrong, the Load Optimized Defaults option puts everything back to default.
+A Microsoft Store deixa de baixar atualizações de apps sozinha, o que evita downloads no meio da partida. Você passa a atualizar pela própria Store; quem usa Game Pass precisa lembrar de atualizar o app Xbox e os Serviços de Jogos.	The Microsoft Store stops downloading app updates on its own, which avoids downloads in the middle of a match. You update through the Store yourself; Game Pass users need to remember to update the Xbox app and Gaming Services.
+A Microsoft deixa de usar os dados de diagnóstico deste PC para montar dicas, anúncios e recomendações sob medida.	Microsoft stops using this PC's diagnostic data to build tailored tips, ads and recommendations.
+A Microsoft descontinuou o app.	Microsoft discontinued the app.
+A Microsoft encerrou o Skype em 2025.	Microsoft shut down Skype in 2025.
+A bateria está em bom estado.	The battery is in good shape.
+A bateria já perdeu boa parte da capacidade. Se a autonomia incomoda, a troca resolve; não afeta o desempenho na tomada.	The battery has already lost a good part of its capacity. If the battery life bothers you, replacing it fixes it; it doesn't affect performance when plugged in.
+A busca do Iniciar passa a procurar só no seu PC, sem consultar o Bing a cada letra digitada. Fica mais rápida e para de mostrar resultados da internet.	Start menu search only looks on your PC, without asking Bing on every letter you type. It gets faster and stops showing internet results.
+A calculadora do Windows.	The Windows calculator.
+A captura automática da Xbox Game Bar ocupa GPU e disco o tempo todo. Desligar devolve esses recursos ao jogo; gravar pelo app da NVIDIA ou da AMD continua funcionando.	Xbox Game Bar's automatic capture keeps using GPU and disk all the time. Turning it off gives those resources back to the game; recording with the NVIDIA or AMD app keeps working.
+A manutenção automática do Windows deixa de tirar o PC da suspensão de madrugada. Ela continua rodando quando o PC estiver ligado e parado.	Windows automatic maintenance stops waking the PC from sleep at night. It still runs when the PC is on and idle.
+A medição de FPS só existe no Harle.exe.	FPS measurement only exists in Harle.exe.
+A memória está rodando a {0} MHz, o que costuma indicar o perfil XMP (ou DOCP) desligado. Ligar é de graça e rende de 10 a 20% em jogos limitados pelo processador.	Memory is running at {0} MHz, which usually means the XMP (or DOCP) profile is off. Turning it on is free and gives 10 to 20% in CPU-bound games.
+A memória já roda na velocidade de um perfil XMP, DOCP ou EXPO.	Memory already runs at the speed of an XMP, DOCP or EXPO profile.
+A ordem abaixo vai do que rende mais para o que rende menos. As comparações são estimativas pelo modelo das peças, não uma medição deste PC. Os modelos citados são exemplos de {0}: preço e estoque mudam, compare antes de comprar.	The list below goes from what gains the most to what gains the least. Comparisons are estimates based on the part models, not a measurement of this PC. The models mentioned are examples from {0}: prices and stock change, compare before buying.
+A pesquisa do menu Iniciar deixa de guardar o que você procurou neste PC e de buscar no conteúdo das suas contas Microsoft, de trabalho ou de escola.	Start menu search stops saving what you searched on this PC and stops searching the content of your Microsoft, work or school accounts.
+A placa de vídeo atual não passa muito de {0} FPS nos jogos novos, então a tela não está escondendo nada. Um monitor de 144 Hz entra na lista depois da placa.	The current graphics card doesn't go much above {0} FPS in new games, so the screen isn't hiding anything. A 144 Hz monitor goes on the list after the graphics card.
+A placa de vídeo está a {0:0} °C, acima do limite de {1} °C. Confira a ventilação do gabinete e a curva da ventoinha.	The graphics card is at {0:0} °C, above the {1} °C limit. Check the case airflow and the fan curve.
+A placa de vídeo voltou para {0:0} °C.	The graphics card is back to {0:0} °C.
+A placa recusou o valor (códigos {0} e {1}). Nada além do que aparece na tela foi alterado.	The card refused the value (codes {0} and {1}). Nothing beyond what is shown on screen was changed.
+A placa-mãe AM5 aceita os processadores Ryzen atuais, então a troca futura é só do processador.	The AM5 motherboard accepts current Ryzen processors, so a future upgrade is just the processor.
+A proteção por virtualização do Windows 11 custa desempenho em jogos limitados pelo processador, e a própria Microsoft lista desligá-la como opção para quem prioriza FPS. Em troca, o Windows perde uma defesa contra drivers maliciosos, e o Vanguard (Valorant e League of Legends) pode exigir que ela fique ligada. Não desligue se você joga esses jogos. Vale depois de reiniciar o PC.	Windows 11 virtualization-based protection costs performance in CPU-bound games, and Microsoft itself lists turning it off as an option for people who prioritize FPS. In return, Windows loses a defense against malicious drivers, and Vanguard (Valorant and League of Legends) may require it to stay on. Don't turn it off if you play those games. Takes effect after restarting the PC.
+A prova do que mudou: memória, processos e FPS medido dentro do jogo.	Proof of what changed: memory, processes and FPS measured in game.
+A sua placa atual funciona só com a energia do slot, então a fonte pode ser fraca ou não ter o cabo certo. A nova vai pedir cabo PCIe de 8 pinos e fonte de marca confiável: 550 W para as de entrada, 650 a 750 W para as mais fortes.	Your current card runs on slot power only, so your power supply may be weak or lack the right cable. The new one will need an 8-pin PCIe cable and a power supply from a trusted brand: 550 W for entry-level cards, 650 to 750 W for stronger ones.
+A tela está mostrando menos quadros do que consegue. É só mudar a taxa nas configurações do Windows.	The screen is showing fewer frames than it can. You just need to change the refresh rate in Windows settings.
+A tela já mostra FPS alto.	The screen already shows high FPS.
+A tela mostra no máximo {0} quadros por segundo. Tudo o que o PC gera acima disso não aparece, só reduz o atraso dos comandos.	The screen shows at most {0} frames per second. Anything the PC renders above that doesn't show up; it only lowers input delay.
+A temperatura do processador não aparece porque o Windows só a entrega por drivers de baixo nível, que antivírus e anti-cheats costumam bloquear.	The processor temperature doesn't show because Windows only provides it through low-level drivers, which antivirus and anti-cheat software often block.
+A velocidade está em um bom nível para o seu processador.	The speed is at a good level for your processor.
+A verificação não terminou: {0}	The check did not finish: {0}
+A versão instalada é de {0}.	The installed version is from {0}.
+A versão instalada é de {0}. Versões novas melhoram a compatibilidade de memória (o XMP fica mais estável), corrigem falhas e, em placas antigas, liberam o Resizable BAR e processadores mais novos.	The installed version is from {0}. New versions improve memory compatibility (XMP gets more stable), fix bugs and, on older boards, unlock Resizable BAR and newer processors.
+A {0} ainda roda os jogos atuais, mas com qualidade reduzida ou pouca memória de vídeo.	The {0} still runs current games, but with reduced quality or little video memory.
+A {0} dá conta dos jogos atuais em qualidade alta. Não é prioridade.	The {0} handles current games at high quality. It's not a priority.
+A {0} é forte demais para o {1}: em 1080p o processador chega ao limite antes dela.	The {0} is too strong for the {1}: at 1080p the processor hits its limit before the card does.
+A {0} é soldada na placa-mãe, e o processador também. O que dá para melhorar em notebook é memória, SSD e a limpeza da refrigeração.	The {0} is soldered to the motherboard, and so is the processor. What you can improve on a laptop is memory, SSD and cleaning the cooling.
+A {0} é uma placa de entrada antiga para os jogos atuais.	The {0} is an old entry-level card for current games.
+A última foi em {0}. O código de cada uma aponta a causa mais provável.	The last one was on {0}. The code of each one points to the most likely cause.
+A última verificação não terminou: {0}	The last check did not finish: {0}
+ANTES  ·  {0} ajustes ativos	BEFORE  ·  {0} active tweaks
+ATENÇÃO	ATTENTION
+AVANÇADO	ADVANCED
+Abra o gabinete para ver se há slot livre.	Open the case to see if there is a free slot.
+Abra o jogo e entre em uma cena que dê para repetir. Clique em Medir e volte para o jogo: a medição começa em 10 segundos e dura 60. Meça uma vez antes de otimizar e outra depois, na mesma cena. Diferenças abaixo de 3% são variação normal. Se usar o overlay, deixe-o igual nas duas medições. Com duas medições do mesmo jogo, Gerar cartão de resultado monta a imagem de antes e depois.	Open the game and go to a scene you can repeat. Click Measure and go back to the game: measuring starts in 10 seconds and lasts 60. Measure once before optimizing and once after, in the same scene. Differences under 3% are normal variation. If you use the overlay, keep it the same in both measurements. With two measurements of the same game, Create result card builds the before-and-after image.
+Abre com o Windows	Starts with Windows
+Abrindo a página da versão nova no navegador.	Opening the new version's page in the browser.
+Abrindo o Discord do Harle no navegador.	Opening Harle's Discord in the browser.
+Abrir	Open
+Abrir o Explorador em "Este Computador"	Open File Explorer in "This PC"
+Abrir pastas grandes mais rápido	Open large folders faster
+Aceitar caminhos de arquivo longos	Allow long file paths
+Adiciona "Finalizar tarefa" ao menu do botão direito de cada programa na barra de tarefas. Fecha um jogo travado sem abrir o Gerenciador de Tarefas. Existe a partir do Windows 11 23H2.	Adds "End task" to the right-click menu of each program on the taskbar. Closes a frozen game without opening Task Manager. Available from Windows 11 23H2.
+Advanced, PCH-FW Configuration: PTT em Enabled.	Advanced, PCH-FW Configuration: PTT set to Enabled.
+Advanced, PCI Configuration: ligue Above 4G Decoding e Re-Size BAR Support (em placas antigas aparece como C.A.M.).	Advanced, PCI Configuration: turn on Above 4G Decoding and Re-Size BAR Support (on older boards it shows as C.A.M.).
+Advanced, PCI Subsystem Settings: ligue Above 4G Decoding e Re-Size BAR Support.	Advanced, PCI Subsystem Settings: turn on Above 4G Decoding and Re-Size BAR Support.
+Agendamento de GPU	GPU scheduling
+Agendamento de GPU acelerado por hardware	Hardware-accelerated GPU scheduling
+Aguardar atualização vertical	Wait for vertical refresh
+Ainda sem leitura. Clique em Verificar de novo.	No reading yet. Click Check again.
+Ajusta o driver GeForce sem você abrir o painel: energia em desempenho máximo, modo de latência baixa ativado e filtro de textura em alto desempenho.	Tunes the GeForce driver without opening the control panel: power at maximum performance, low latency mode on and texture filtering at high performance.
+Ajusta o driver Radeon sem você abrir o Adrenalin: liga o Radeon Anti-Lag, que encurta o atraso entre o comando e a imagem, e desliga o Radeon Chill, que segura o FPS para economizar energia.	Tunes the Radeon driver without opening Adrenalin: turns on Radeon Anti-Lag, which shortens the delay between input and image, and turns off Radeon Chill, which holds FPS back to save power.
+Ajustes ligados: {0} de {1}	Tweaks on: {0} of {1}
+Alarmes, cronômetro e sessões de foco.	Alarms, stopwatch and focus sessions.
+Alerta de temperatura	Temperature alert
+Alguns hábitos mudam	Some habits change
+Alta	High
+Anotado em {0}, antes do primeiro ajuste.	Recorded on {0}, before the first tweak.
+Antes de aplicar	Before applying
+Antes de gastar: ligue o XMP na BIOS	Before spending: turn on XMP in the BIOS
+Antes de otimizar	Before optimizing
+Ao entrar, o Harle fecha o que está marcado ao lado. Quando o jogo aparecer em tela cheia, ele recebe prioridade alta de processador.	When you enter, Harle closes what is checked on the side. When the game shows up in full screen, it gets high processor priority.
+Apaga as pastas de temporários do usuário e do Windows e os despejos de erro de aplicativos. Arquivos em uso são pulados.	Deletes the user and Windows temp folders and application crash dumps. Files in use are skipped.
+Apaga de vez o que está na Lixeira de todos os discos. Não tem volta.	Permanently deletes what is in the Recycle Bin on all drives. There is no undo.
+Apaga o arquivo hiberfil.sys, que ocupa no disco perto de 40% do tamanho da RAM (uns 6 GB com 16 GB de RAM). A opção Hibernar some do menu de desligar e a Inicialização Rápida deixa de existir. Em notebook, só use se você nunca hiberna.	Deletes the hiberfil.sys file, which takes about 40% of the RAM size on disk (around 6 GB with 16 GB of RAM). The Hibernate option disappears from the shutdown menu and Fast Startup stops existing. On a laptop, only use it if you never hibernate.
+Apaga os endereços guardados, o que resolve launchers e jogos que não conectam depois de trocar de rede.	Clears the saved addresses, which fixes launchers and games that won't connect after changing networks.
+Apaga os instaladores de atualizações já aplicadas, que costumam ocupar alguns GB. O Windows baixa de novo o que ainda precisar.	Deletes installers of updates already applied, which usually take a few GB. Windows downloads again whatever it still needs.
+Apaga os shaders guardados pelo DirectX e pelos drivers NVIDIA e AMD. Use depois de atualizar o driver de vídeo ou se um jogo passou a travar ou mostrar defeitos na imagem. Na primeira vez que abrir cada jogo depois disso, ele trava um pouco enquanto monta os shaders de novo.	Deletes shaders cached by DirectX and the NVIDIA and AMD drivers. Use it after updating the graphics driver or if a game started stuttering or showing image glitches. The first time you open each game afterwards, it stutters a bit while it rebuilds the shaders.
+Aperte F7 para o modo avançado. Ai Tweaker, Ai Overclock Tuner: escolha XMP, D.O.C.P. ou EXPO.	Press F7 for advanced mode. Ai Tweaker, Ai Overclock Tuner: choose XMP, D.O.C.P. or EXPO.
+Aperte F7 para o modo avançado. Menu OC: A-XMP, XMP ou EXPO, perfil 1. No modo simples há um botão XMP no topo da tela.	Press F7 for advanced mode. OC menu: A-XMP, XMP or EXPO, profile 1. In simple mode there is an XMP button at the top of the screen.
+Aplicado por comandos do próprio Windows (energia, serviços, tarefas agendadas ou driver), como diz a descrição.	Applied through Windows' own commands (power, services, scheduled tasks or driver), as the description says.
+Aplicar perfil	Apply profile
+Aplicar perfil {0}	Apply {0} profile
+App da webcam.	Webcam app.
+App do Copilot	Copilot app
+Apps antigos de contatos e SMS.	Old contacts and SMS apps.
+Apps da Microsoft Store têm a própria lista em Configurações, Aplicativos, Inicialização.	Microsoft Store apps have their own list in Settings, Apps, Startup.
+Apps de conteúdo da Microsoft que vêm no Windows.	Microsoft content apps that come with Windows.
+Apps de modelos 3D.	3D model apps.
+Apps instalados pela Microsoft Store deixam de trabalhar com a janela fechada, o que libera memória e processador. Em troca, eles param de avisar quando fechados: quem usa WhatsApp ou Email da Loja só recebe notificação com o app aberto.	Apps installed from the Microsoft Store stop working with the window closed, which frees memory and processor. In return, they stop notifying you when closed: if you use WhatsApp or Mail from the Store, you only get notifications with the app open.
+Apps são removidos	Apps are removed
+Armazenamento: está bom	Storage: it's fine
+Armazenamento: o disco do sistema tem {0}% livre	Storage: the system drive has {0}% free
+Arquivos temporários são apagados	Temporary files are deleted
+As configurações do driver de vídeo e de dentro dos jogos que mais pesam no FPS.	The graphics driver and in-game settings that weigh the most on FPS.
+As notas que você já escreveu somem do PC junto com o app.	Notes you have already written disappear from the PC along with the app.
+Assistente que a Microsoft descontinuou.	Assistant that Microsoft discontinued.
+Assistência Rápida	Quick Assist
+Atenção	Attention
+Ativado. Em jogos com NVIDIA Reflex, ligue o Reflex dentro do jogo; ele assume o controle da latência.	On. In games with NVIDIA Reflex, turn Reflex on in the game; it takes over latency control.
+Ativos	Active
+Atualizar a BIOS: a deste PC tem {0} anos	Update the BIOS: this PC's is {0} years old
+Atualizar a BIOS: importante nos Core de 13ª e 14ª geração	Update the BIOS: important on 13th and 14th gen Core
+Atualizações do Windows desfazem alguns ajustes sem avisar. Um minuto depois do login, o Harle confere em silêncio e reaplica só o que foi revertido. Não abre janela, não roda o Windows Update e termina em segundos.	Windows updates undo some tweaks without warning. One minute after login, Harle checks silently and reapplies only what was reverted. It doesn't open a window, doesn't run Windows Update and finishes in seconds.
+Atualize pelo app da NVIDIA ou da AMD quando sair um jogo que você vai jogar.	Update through the NVIDIA or AMD app when a game you're going to play comes out.
+Automação de tarefas de escritório.	Office task automation.
+Avançados	Advanced
+AÇÃO	ACTION
+Ação de uma vez: roda quando você clica, ou junto com Aplicar perfil. Não fica ligada.	One-time action: runs when you click, or together with Apply profile. It doesn't stay on.
+Ação de uma vez: roda só quando você clica. Aplicar perfil não mexe nela.	One-time action: runs only when you click. Apply profile doesn't touch it.
+Baixa de 400 ms para 50 ms a espera do Windows antes de abrir submenus. Deixa a navegação mais rápida, sem efeito em jogo.	Cuts Windows' wait before opening submenus from 400 ms to 50 ms. Makes navigation faster, with no effect in games.
+Baixar a versão {0}	Download version {0}
+Bateria: guarda {0}% da carga original{1}	Battery: holds {0}% of its original charge{1}
+Bloco de anotações da Microsoft.	Microsoft's notebook app.
+Boot, CSM (Compatibility Support Module): Launch CSM em Disabled.	Boot, CSM (Compatibility Support Module): Launch CSM set to Disabled.
+Boot, Secure Boot: OS Type em Windows UEFI mode.	Boot, Secure Boot: OS Type set to Windows UEFI mode.
+Boot: CSM Support em Disabled.	Boot: CSM Support set to Disabled.
+Buscar ajuste	Search tweaks
+CLOCK_WATCHDOG_TIMEOUT: processador instável, quase sempre overclock ou Curve Optimizer agressivo.	CLOCK_WATCHDOG_TIMEOUT: unstable processor, almost always an overclock or an aggressive Curve Optimizer.
+CRITICAL_PROCESS_DIED: um processo do Windows morreu. Verifique os arquivos do Windows e o disco.	CRITICAL_PROCESS_DIED: a Windows process died. Check the Windows files and the disk.
+Cada ajuste tem o próprio botão. Passe o mouse no (i) do cartão para ver exatamente o que ele muda; desligar devolve o valor original.	Each tweak has its own switch. Hover over the card's (i) to see exactly what it changes; turning it off restores the original value.
+Caderno para caneta digital.	Notebook for digital pen.
+Calculando o resultado...	Calculating the result...
+Cancelar reinício	Cancel restart
+Canto de baixo, à direita	Bottom right corner
+Canto de baixo, à esquerda	Bottom left corner
+Canto de cima, à direita	Top right corner
+Canto de cima, à esquerda	Top left corner
+Cartão salvo em {0}{1}.	Card saved to {0}{1}.
+Clock da memória	Memory clock
+Clock do núcleo	Core clock
+Clocks aplicados: núcleo +{0} MHz, memória +{1} MHz. Teste em jogo antes de subir mais.	Clocks applied: core +{0} MHz, memory +{1} MHz. Test in game before going higher.
+Coloca a coleta de dados de diagnóstico no mínimo permitido e desliga os serviços que enviam esses dados em segundo plano.	Sets diagnostic data collection to the minimum allowed and turns off the services that send this data in the background.
+Com 16 GB de RAM ou menos, feche o navegador e os launchers parados antes de um jogo pesado. O modo partida faz isso por você.	With 16 GB of RAM or less, close the browser and idle launchers before a heavy game. Game mode does that for you.
+Com até 6 GB de memória de vídeo, Médio ou Alto; Ultra estoura a memória em jogos recentes e causa travadas fortes. Com 8 GB ou mais, Alto ou Ultra.	With up to 6 GB of video memory, Medium or High; Ultra overflows the memory in recent games and causes heavy stutters. With 8 GB or more, High or Ultra.
+Com este processador, uma placa nova renderia bem menos do que pode. Veja o item do processador antes de comprar.	With this processor, a new card would deliver much less than it can. Check the processor item before buying.
+Com o PBO ligado, o Curve Optimizer em valor negativo (comece em -10 em todos os núcleos) baixa a temperatura e sobe um pouco o desempenho. Teste a estabilidade por alguns dias; se o PC reiniciar sozinho, use um valor menor.	With PBO on, Curve Optimizer at a negative value (start at -10 on all cores) lowers the temperature and raises performance a little. Test stability for a few days; if the PC restarts on its own, use a smaller value.
+Com os pentes nos slots certos da placa-mãe (em geral o 2º e o 4º), você está em dual channel.	With the sticks in the right motherboard slots (usually the 2nd and 4th), you're in dual channel.
+Com um único pente a memória trabalha em single channel, e o processador perde bastante desempenho em jogos. É um dos upgrades mais baratos que existem.	With a single stick the memory works in single channel, and the processor loses a lot of performance in games. It's one of the cheapest upgrades there is.
+Como	How
+Como achar o pente	How to find the bad stick
+Como conferir	How to check
+Como converter	How to convert
+Como o Equilibrado, sem o que esquenta e gasta bateria: plano de energia máximo e driver de vídeo em desempenho máximo.	Like Balanced, without what heats up and drains battery: maximum power plan and graphics driver at maximum performance.
+Compare com os mesmos programas abertos. O número mais fiel é o de logo depois de ligar o PC.	Compare with the same programs open. The most accurate number is right after turning the PC on.
+Comunidade no Discord	Discord community
+Conferindo o estado atual do Windows...	Checking the current state of Windows...
+Conferir o Resizable BAR	Check Resizable BAR
+Conferir o Resizable BAR: nas placas Intel Arc ele é essencial	Check Resizable BAR: on Intel Arc cards it's essential
+Conferir o XMP: a memória está a {0} MHz	Check XMP: memory is at {0} MHz
+Conferir os ajustes a cada login	Check tweaks at every login
+Configurações, Sistema, Tela, Tela avançada, e escolha a taxa de atualização mais alta.	Settings, System, Display, Advanced display, and choose the highest refresh rate.
+Confira se a fonte tem a potência e os cabos PCIe que a placa nova pede: 550 W para as de entrada, 650 a 750 W para as mais fortes.	Check that the power supply has the wattage and PCIe cables the new card asks for: 550 W for entry-level cards, 650 to 750 W for stronger ones.
+Conforto	Comfort
+Controle dos pais.	Parental controls.
+Copia specs, ajustes ligados e o fim do log, prontos para colar no Discord	Copies specs, enabled tweaks and the end of the log, ready to paste on Discord
+Copiar relatório	Copy report
+Copiar relatório para pedir ajuda	Copy report to ask for help
+Core i5-14600K ou Core i7-14700K, com a BIOS atualizada. São os últimos dessa plataforma.	Core i5-14600K or Core i7-14700K, with an updated BIOS. They're the last ones for this platform.
+Cria e ativa um plano que mantém o processador em frequência alta e desliga a suspensão de USB e PCIe. Reduz quedas bruscas de FPS; gasta um pouco mais de energia com o PC parado.	Creates and activates a plan that keeps the processor at high frequency and turns off USB and PCIe suspend. Reduces sudden FPS drops; uses a bit more power when the PC is idle.
+Criado por	Created by
+Criando um ponto de restauração do Windows...	Creating a Windows restore point...
+Créditos	Credits
+Câmera	Camera
+DDR3 de 1600 MHz	DDR3 at 1600 MHz
+DDR4 de 3200 MHz CL16	DDR4 at 3200 MHz CL16
+DDR5 de 6000 MHz CL30	DDR5 at 6000 MHz CL30
+DEPOIS  ·  {0} ajustes ativos	AFTER  ·  {0} active tweaks
+DLSS ou FSR	DLSS or FSR
+DPC_WATCHDOG_VIOLATION: driver travado, às vezes o firmware do SSD. Atualize chipset e SSD.	DPC_WATCHDOG_VIOLATION: a stuck driver, sometimes the SSD firmware. Update the chipset and SSD.
+DRIVER_IRQL_NOT_LESS_OR_EQUAL: um driver, muitas vezes de rede ou de vídeo.	DRIVER_IRQL_NOT_LESS_OR_EQUAL: a driver, often network or graphics.
+Data da BIOS	BIOS date
+Data do driver	Driver date
+Debloat	Debloat
+Deixa o Ryzen usar mais energia quando a refrigeração permite. Em jogos o ganho é pequeno, de 1 a 5%; em tarefas pesadas é maior, principalmente nos modelos de 65 W. O processador esquenta mais, então só vale com um bom cooler.	Lets the Ryzen use more power when the cooling allows. In games the gain is small, 1 to 5%; in heavy tasks it's bigger, especially on 65 W models. The processor runs hotter, so it's only worth it with a good cooler.
+Deixa o processador acessar a memória de vídeo inteira de uma vez. Rende alguns por cento em vários jogos, mais na AMD e em jogos novos, e não custa nada. O Harle não conseguiu confirmar pelo Windows se ele está ligado na {0}.	Lets the processor access the whole video memory at once. Gives a few percent in many games, more on AMD and in new games, and costs nothing. Harle couldn't confirm through Windows whether it's on for the {0}.
+Deixe em Padrão do driver, que nos drivers atuais já é grande. Valores pequenos causam travadas de compilação.	Leave it at Driver default, which is already large on current drivers. Small values cause compilation stutters.
+Deixe o Harle aberto enquanto joga. Quando o jogo fechar, o modo partida sai sozinho e reabre os programas que tinham janela.	Keep Harle open while you play. When the game closes, game mode exits on its own and reopens the programs that had a window.
+Deixe os jogos no SSD. No HD o carregamento é bem mais lento e mundos abertos travam ao carregar o cenário.	Keep games on the SSD. On the HDD loading is much slower and open worlds stutter while loading the scenery.
+Deixe os jogos no SSD. No HD o carregamento é bem mais lento.	Keep games on the SSD. On the HDD loading is much slower.
+Del ou F2	Del or F2
+Del ou F2 (em PCs de marca: F2 na Dell, F10 na HP, F1 ou F2 na Lenovo)	Del or F2 (on brand-name PCs: F2 on Dell, F10 on HP, F1 or F2 on Lenovo)
+Dentro dos jogos	In games
+Depois	Afterwards
+Desativa o assistente do Windows e a captura de tela contínua do Recall por política do sistema.	Disables the Windows assistant and Recall's continuous screen capture through system policy.
+Desde outubro de 2025 o Windows 10 não recebe correções de segurança (fora do programa pago de extensão), e drivers e jogos novos vão deixando de testar nele.	Since October 2025 Windows 10 doesn't get security fixes (outside the paid extension program), and new drivers and games are gradually stopping testing on it.
+Desempenho	Performance
+Desempenho.	Performance.
+Desfaça o último ajuste de BIOS ou de overclock e veja se os erros param. Se nada foi mexido, confira as temperaturas na tela Monitor.	Undo the last BIOS or overclock change and see if the errors stop. If nothing was changed, check the temperatures on the Monitor screen.
+Desliga a coleta de digitação e escrita à mão que o Windows usa para personalizar o dicionário e as sugestões. O corretor e as sugestões básicas continuam.	Turns off the typing and handwriting collection Windows uses to personalize the dictionary and suggestions. Spell check and basic suggestions keep working.
+Desliga o Programa de Aperfeiçoamento da Experiência do Usuário, que coleta estatísticas de uso do sistema.	Turns off the Customer Experience Improvement Program, which collects system usage statistics.
+Desliga o pré-carregamento do Edge junto com o Windows e os processos que continuam abertos depois de fechar o navegador. O Edge vai mostrar "gerenciado pela organização".	Turns off Edge preloading with Windows and the processes that stay open after you close the browser. Edge will show "managed by your organization".
+Desligada no painel. Com monitor G-Sync ou FreeSync, limite o FPS 3 abaixo da taxa do monitor.	Off in the panel. With a G-Sync or FreeSync monitor, cap FPS 3 below the monitor's refresh rate.
+Desligado em placas de entrada, como RTX 3050 e RX 6600. O custo é alto demais para elas.	Off on entry-level cards like the RTX 3050 and RX 6600. The cost is too high for them.
+Desligado, a menos que o aplicativo especifique.	Off, unless the application specifies.
+Desligado. Ele limita o FPS para economizar energia.	Off. It caps FPS to save power.
+Desligando {0} de {1}: {2}...	Turning off {0} of {1}: {2}...
+Desligar Widgets e notícias	Turn off Widgets and news
+Desligar a Assistência Remota	Turn off Remote Assistance
+Desligar a Inicialização Rápida	Turn off Fast Startup
+Desligar a Integridade de Memória	Turn off Memory Integrity
+Desligar a Reprodução Automática	Turn off AutoPlay
+Desligar a aceleração do mouse	Turn off mouse acceleration
+Desligar a atualização automática dos apps da Loja	Turn off automatic Store app updates
+Desligar a gravação em segundo plano	Turn off background recording
+Desligar a hibernação	Turn off hibernation
+Desligar a indexação de arquivos	Turn off file indexing
+Desligar a localização	Turn off location
+Desligar as experiências personalizadas	Turn off tailored experiences
+Desligar as tarefas agendadas de telemetria	Turn off telemetry scheduled tasks
+Desligar o "sacudir para minimizar"	Turn off "shake to minimize"
+Desligar o CSM sem converter o disco faz o Windows não iniciar. Não se perde nada: basta voltar à BIOS e religar o CSM.	Turning off CSM without converting the disk makes Windows fail to start. Nothing is lost: just go back to the BIOS and turn CSM back on.
+Desligar o Copilot e o Recall	Turn off Copilot and Recall
+Desligar o algoritmo de Nagle	Turn off Nagle's algorithm
+Desligar o envio de relatórios de erro	Turn off error report sending
+Desligar o freio de energia em processos	Turn off process power throttling
+Desligar o histórico de atividades	Turn off activity history
+Desligar o histórico e a nuvem na pesquisa do Windows	Turn off history and cloud in Windows search
+Desligar o limite de rede multimídia	Turn off multimedia network throttling
+Desligar o reconhecimento de fala online	Turn off online speech recognition
+Desligar os atalhos de Teclas de Aderência	Turn off Sticky Keys shortcuts
+Desligar pelo menu Iniciar não zera isso quando a Inicialização Rápida está ligada. Reiniciar de vez em quando libera memória e aplica atualizações de driver.	Shutting down from the Start menu doesn't reset this when Fast Startup is on. Restarting now and then frees memory and applies driver updates.
+Desligar serviços que quase ninguém usa	Turn off services almost nobody uses
+Desligar sugestões, anúncios e apps patrocinados	Turn off suggestions, ads and sponsored apps
+Desmarca, em cada adaptador físico de rede, a opção que deixa o Windows desligar o dispositivo para economizar energia. Evita quedas de conexão e picos de ping depois de um tempo parado. Em notebook gasta um pouco mais de bateria.	Unchecks, on each physical network adapter, the option that lets Windows turn off the device to save power. Avoids connection drops and ping spikes after being idle for a while. On a laptop it uses a bit more battery.
+Dica	Tip
+Disco {0} com {1}% livre	Drive {0} with {1}% free
+Dois arquivos salvos na Área de Trabalho: "Harle - aplicar.reg" e "Harle - desfazer.reg".	Two files saved on the Desktop: "Harle - aplicar.reg" (apply) and "Harle - desfazer.reg" (undo).
+Driver de chipset	Chipset driver
+Driver de vídeo	Graphics driver
+Driver de vídeo com {0} meses	Graphics driver {0} months old
+Driver de vídeo recente	Recent graphics driver
+Driver não encontrado	Driver not found
+Durante o jogo	While playing
+Dá conta dos jogos atuais, mas sem folga. Feche o navegador antes de jogar títulos pesados.	Handles current games, but with no headroom. Close the browser before playing heavy titles.
+Dá para voltar atrás	You can go back
+Dá prioridade ao jogo em primeiro plano e impede o Windows Update de instalar drivers e pedir reinício enquanto você joga.	Prioritizes the game in the foreground and stops Windows Update from installing drivers and asking to restart while you play.
+ESTÁ BOM	IT'S FINE
+Editor de vídeo da Microsoft.	Microsoft's video editor.
+Em PCs com Ryzen, instale o driver de chipset pelo site da AMD; ele ajusta o agendamento dos núcleos.	On PCs with Ryzen, install the chipset driver from AMD's website; it tunes core scheduling.
+Em notebook a placa de vídeo não troca	On a laptop the graphics card can't be swapped
+Em notebooks e em PCs de marca (Dell, HP, Lenovo, Acer) esta opção costuma não existir. Se não achar, não há o que fazer.	On laptops and brand-name PCs (Dell, HP, Lenovo, Acer) this option usually doesn't exist. If you can't find it, there's nothing to do.
+Em single channel o processador perde bastante desempenho em jogos. Dois pentes iguais em dual channel resolvem.	In single channel the processor loses a lot of performance in games. Two identical sticks in dual channel fix it.
+Email e Calendário	Mail and Calendar
+Entendo os riscos e sei o que estou fazendo	I understand the risks and know what I'm doing
+Entrada	Entry-level
+Entrar no Discord do Harle	Join Harle's Discord
+Entrar no modo partida	Enter game mode
+Envia cada pacote na hora em vez de esperar para agrupar. Baixa a latência em jogos que usam TCP, como muitos MMOs; em jogos que usam UDP não muda nada.	Sends each packet right away instead of waiting to group them. Lowers latency in games that use TCP, like many MMOs; in games that use UDP it changes nothing.
+Envio de sugestões para a Microsoft.	Sends suggestions to Microsoft.
+Erros de hardware	Hardware errors
+Erros de hardware, telas azuis, travamentos do driver de vídeo, discos e bateria, pelo que o próprio Windows registrou.	Hardware errors, blue screens, graphics driver crashes, disks and battery, from what Windows itself recorded.
+Escanear de novo	Scan again
+Escolha "Reiniciar agora e verificar se há problemas". O teste leva uns 15 minutos e o resultado aparece aqui depois.	Choose "Restart now and check for problems". The test takes about 15 minutes and the result shows up here afterwards.
+Escolha quais apps que vêm com o Windows saem do PC. Só aparecem os que estão instalados agora.	Choose which apps that come with Windows get removed from the PC. Only the ones installed now are shown.
+Escolha um perfil e aplique tudo de uma vez, ou abra uma categoria para ligar ajuste por ajuste. O Harle guarda os valores originais de tudo o que muda.	Choose a profile and apply everything at once, or open a category to turn tweaks on one by one. Harle saves the original values of everything it changes.
+Esperando um jogo aparecer em tela cheia.{0}	Waiting for a game to show up in full screen.{0}
+Espere o trabalho em andamento terminar e clique em Atualizar.	Wait for the current task to finish and click Refresh.
+Espere o trabalho em andamento terminar para fechar.	Wait for the current task to finish before closing.
+Espere o trabalho em andamento terminar para trocar o idioma.	Wait for the current task to finish before changing the language.
+Essa velocidade tanto pode ser a do kit quanto um perfil desligado. Veja na etiqueta dos pentes qual é a velocidade de fábrica; se for maior, ligue o perfil.	This speed could be either the kit's own speed or a profile that's off. Check the factory speed on the memory sticks' label; if it's higher, turn the profile on.
+Esses processadores tiveram um defeito de tensão que causa instabilidade e desgaste, corrigido por microcódigo em 2024. A BIOS deste PC é de {0}. Confira se a versão instalada já traz a correção e use o perfil Intel Default Settings.	These processors had a voltage defect that causes instability and wear, fixed by microcode in 2024. This PC's BIOS is from {0}. Check that the installed version already includes the fix and use the Intel Default Settings profile.
+Estado para jogos	Gaming state
+Este PC está equilibrado: nenhuma peça segura as outras.	This PC is balanced: no part holds the others back.
+Este PC não aceita abrir a BIOS pelo Windows. Reinicie e aperte a tecla indicada assim que a tela acender.	This PC doesn't accept opening the BIOS from Windows. Restart and press the key shown as soon as the screen turns on.
+Este PC não aceitou o ajuste: {0}.	This PC didn't accept the tweak: {0}.
+Este perfil já está aplicado.	This profile is already applied.
+Esvaziar	Empty
+Esvaziar a Lixeira	Empty the Recycle Bin
+Evita que apertar Shift cinco vezes, ou segurar uma tecla, abra um aviso do Windows e tire você do jogo.	Stops pressing Shift five times, or holding a key, from opening a Windows prompt and pulling you out of the game.
+Exigido por jogos	Required by games
+F2 ou Del	F2 or Del
+FAÇA AGORA	DO IT NOW
+FPS dentro do jogo	In-game FPS
+FPS medido dentro do jogo, antes e depois	FPS measured in game, before and after
+FPS, temperatura e uso da placa por cima do jogo, sem injetar nada nele. Funciona com o jogo em janela sem bordas; em tela cheia exclusiva ele não aparece. Pode somar um pouco de atraso de imagem, porque o Windows volta a compor a tela: em partida ranqueada, prefira desligado.	FPS, temperature and GPU usage on top of the game, without injecting anything into it. Works with the game in borderless window; in exclusive full screen it doesn't show. It can add a little image delay, because Windows goes back to composing the screen: in ranked matches, keep it off.
+FSR dentro do jogo	In-game FSR
+Falta 1 mudança.	1 change left.
+Faltam {0} mudanças.	{0} changes left.
+Faz jogos DirectX 10 e 11 em janela ou tela cheia sem bordas usarem o modo de apresentação moderno, com menos latência e suporte a taxa de atualização variável.	Makes DirectX 10 and 11 games in a window or borderless full screen use the modern presentation mode, with lower latency and variable refresh rate support.
+Faz o Windows iniciar do zero a cada vez que liga, em vez de reaproveitar o estado anterior. Evita lentidão e bugs de driver acumulados; o boot leva alguns segundos a mais.	Makes Windows start from scratch every time it turns on, instead of reusing the previous state. Avoids slowness and accumulated driver bugs; boot takes a few seconds longer.
+Faz o que os apps de Timer Resolution fazem: um ajudante invisível abre no login e mantém o relógio interno do Windows em 0,5 ms. No Windows 11 vale para todos os programas, depois de reiniciar; no Windows 10 vale na hora para os jogos que pedem timer preciso, que são quase todos. Não aumenta o FPS médio; deixa as esperas do jogo mais precisas, o que pode firmar o ritmo dos quadros e baixar um pouco a latência. Em troca, o processador gasta mais energia. Meça antes e depois na tela Medição.	Does what Timer Resolution apps do: an invisible helper starts at login and keeps Windows' internal clock at 0.5 ms. On Windows 11 it applies to all programs, after restarting; on Windows 10 it applies right away to games that ask for a precise timer, which is almost all of them. It doesn't raise average FPS; it makes the game's waits more precise, which can steady frame pacing and lower latency a little. In return, the processor uses more power. Measure before and after on the Measurement screen.
+Faça backup. No Prompt de Comando como administrador: mbr2gpt /validate /allowFullOS e, se passar, mbr2gpt /convert /allowFullOS. Só depois desligue o CSM.	Back up first. In Command Prompt as administrator: mbr2gpt /validate /allowFullOS and, if it passes, mbr2gpt /convert /allowFullOS. Only then turn off CSM.
+Fecha	Closes
+Fecha o que pesa só enquanto você joga, e devolve depois.	Closes what weighs only while you play, and brings it back afterwards.
+Fechando os programas marcados...	Closing the checked programs...
+Fica	Keep
+Fica aberto	Stays open
+Filmes e TV	Movies & TV
+Filtro de textura, qualidade	Texture filtering, quality
+Finalizar tarefa no botão direito da barra de tarefas	End task in the taskbar right-click menu
+Fonte e gabinete	Power supply and case
+Frequência base	Base clock
+GRÁTIS	FREE
+GeForce RTX 3060 12 GB, RTX 3060 Ti ou Radeon RX 6700 XT, de loja com garantia: {0}.	GeForce RTX 3060 12 GB, RTX 3060 Ti or Radeon RX 6700 XT, from a store with warranty: {0}.
+GeForce RTX 5070 12 GB ou Radeon RX 9070 16 GB	GeForce RTX 5070 12 GB or Radeon RX 9070 16 GB
+Gerar cartão de resultado	Create result card
+Gravador de Som	Sound Recorder
+Gravação de áudio pelo microfone.	Audio recording from the microphone.
+Guia de vídeo e jogos	Graphics and games guide
+Harle Optimizer - conferir ajustes	Harle Optimizer - conferir ajustes
+Hoje	Today
+Hub de Comentários	Feedback Hub
+Há 1 slot livre: dá para somar um pente igual ao atual.	There is 1 free slot: you can add a stick identical to the current one.
+Há arquivos do Windows corrompidos que dá para reparar. Clique em Reparar os arquivos do Windows.	There are corrupted Windows files that can be repaired. Click Repair Windows files.
+Há problemas que merecem atenção agora	There are problems that need attention now
+Há um HD mecânico no PC	There is a mechanical HDD in the PC
+Há {0} slots livres: dá para somar pentes iguais aos atuais.	There are {0} free slots: you can add sticks identical to the current ones.
+Hábitos que valem mais que qualquer ajuste	Habits worth more than any tweak
+IRQL_NOT_LESS_OR_EQUAL: driver ou memória instável.	IRQL_NOT_LESS_OR_EQUAL: a driver or unstable memory.
+Imagem com o FPS de antes e depois, para postar no Discord	Image with before and after FPS, to post on Discord
+Impacto médio	Medium impact
+Impede o Windows de reduzir a frequência de programas que ele considera de fundo, como launchers e chat de voz abertos junto com o jogo.	Stops Windows from lowering the frequency of programs it considers background, like launchers and voice chat open alongside the game.
+Impedir apps da Loja de rodar em segundo plano	Stop Store apps from running in the background
+Impedir o Chrome de rodar em segundo plano	Stop Chrome from running in the background
+Impedir o Edge de rodar em segundo plano	Stop Edge from running in the background
+Impedir o Windows de desligar a placa de rede	Stop Windows from turning off the network adapter
+Inicialização	Startup
+Instale o Windows e os jogos no SSD e deixe o HD para arquivos.	Install Windows and the games on the SSD and keep the HDD for files.
+Integridade de Memória	Memory Integrity
+Integridade de Memória ligada	Memory Integrity is on
+Intel Arc B580 12 GB, Radeon RX 9060 XT 8 GB ou GeForce RTX 5060 8 GB	Intel Arc B580 12 GB, Radeon RX 9060 XT 8 GB or GeForce RTX 5060 8 GB
+Interface da AMD usada para ligar o Radeon Anti-Lag, desligar o Radeon Chill e ler os sensores da tela Monitor.	AMD interface used to turn on Radeon Anti-Lag, turn off Radeon Chill and read the sensors on the Monitor screen.
+Interfaces da NVIDIA usadas para gravar o perfil global do driver, ler os sensores da tela Monitor e deslocar os clocks na aba AVANÇADO.	NVIDIA interfaces used to write the driver's global profile, read the sensors on the Monitor screen and offset the clocks on the ADVANCED tab.
+Intermediária	Mid-range
+Início	Home
+Isso costuma indicar XMP/DOCP desligado na BIOS. Com um kit de 3200 ou 3600 MHz, ligar o perfil é o maior ganho gratuito que existe: de 10 a 20% em jogos limitados pelo processador, principalmente em Ryzen.	This usually means XMP/DOCP is off in the BIOS. With a 3200 or 3600 MHz kit, turning the profile on is the biggest free gain there is: 10 to 20% in CPU-bound games, especially on Ryzen.
+Jogo de cartas com anúncios.	Card game with ads.
+Jogos atuais pedem 16 GB. Com menos, o Windows usa o disco como memória e o jogo trava ao carregar cenário.	Current games ask for 16 GB. With less, Windows uses the disk as memory and the game stutters while loading scenery.
+JÁ ESTÁ	ALREADY DONE
+Já estava limpo	It was already clean
+Já estava vazia	It was already empty
+KERNEL_SECURITY_CHECK_FAILURE: driver ou memória instável.	KERNEL_SECURITY_CHECK_FAILURE: a driver or unstable memory.
+Kit de 2 x 8 GB {0} (16 GB). Se o orçamento der, 2 x 16 GB.	Kit of 2 x 8 GB {0} (16 GB). If the budget allows, 2 x 16 GB.
+Latência e FPS acima de tudo: liga também o timer de 0,5 ms e tira transparência e animações.	Latency and FPS above all: also turns on the 0.5 ms timer and removes transparency and animations.
+Leitura	Reading
+Lendo o hardware...	Reading the hardware...
+Lendo os registros do Windows e o estado dos discos...	Reading Windows logs and disk status...
+Libera caminhos com mais de 260 caracteres para os programas que suportam. Resolve erros ao extrair ou instalar mods e projetos com muitas pastas, uma dentro da outra.	Allows paths longer than 260 characters for programs that support it. Fixes errors when extracting or installing mods and projects with many nested folders.
+Libera o espaço da barra. Para pesquisar, é só apertar a tecla Windows e começar a digitar.	Frees up taskbar space. To search, just press the Windows key and start typing.
+Ligado + Boost nos jogos competitivos que oferecem.	On + Boost in competitive games that offer it.
+Ligado há	Running for
+Ligado há {0:N0} dias sem reiniciar	Running for {0:N0} days without a restart
+Ligado. Reduz o atraso entre o comando e a imagem.	On. Reduces the delay between input and image.
+Ligando {0} de {1}: {2}...	Turning on {0} of {1}: {2}...
+Ligar o XMP: a memória está a {0} MHz	Turn on XMP: memory is at {0} MHz
+Limpar	Clean
+Limpar arquivos temporários	Clean temporary files
+Limpar as ventoinhas e trocar a pasta térmica a cada dois ou três anos devolve o desempenho que o calor tira.	Cleaning the fans and replacing the thermal paste every two or three years restores the performance that heat takes away.
+Limpar componentes antigos do Windows	Clean old Windows components
+Limpar downloads antigos do Windows Update	Clean old Windows Update downloads
+Limpar o cache de DNS	Clear the DNS cache
+Limpar o cache de shaders	Clear the shader cache
+Limpeza	Cleanup
+Lista de tarefas.	To-do list.
+MB de RAM	MB of RAM
+MEMORY_MANAGEMENT: costuma ser memória instável (XMP) ou com defeito. Rode o teste de memória.	MEMORY_MANAGEMENT: usually unstable (XMP) or faulty memory. Run the memory test.
+Manutenção	Maintenance
+Mapas offline, fax, modo de demonstração de loja e compartilhamento de rede do Windows Media Player.	Offline maps, fax, store demo mode and Windows Media Player network sharing.
+Marcados para sair: {0}. A remoção vale para todos os usuários do PC, e o Windows não reinstala sozinho depois. Para ter um app de volta, instale de novo pela Microsoft Store. A Store, o login do Xbox e a Game Bar não aparecem aqui porque jogos dependem deles. O botão Aplicar perfil, da tela Início, também remove o que estiver marcado.	Marked for removal: {0}. Removal applies to every user on the PC, and Windows doesn't reinstall them on its own afterwards. To get an app back, reinstall it from the Microsoft Store. The Store, Xbox sign-in and Game Bar don't show up here because games depend on them. The Apply profile button on the Home screen also removes what is marked.
+Media Player (Groove Música)	Media Player (Groove Music)
+Medido com PresentMon, 60 segundos por medição. Antes: {0}. Depois: {1}.	Measured with PresentMon, 60 seconds per measurement. Before: {0}. After: {1}.
+Medir por 60 segundos	Measure for 60 seconds
+Medição	Measurement
+Medição atualizada.	Measurement refreshed.
+Medição concluída: {0}, {1:N1} FPS de média e {2:N1} de 1% low.	Measurement done: {0}, {1:N1} average FPS and {2:N1} 1% low.
+Medição de FPS e contador de FPS do overlay. Copyright Intel Corporation, licença MIT. O texto da licença é extraído junto com o programa, em C:\Program Files\Harle.	FPS measurement and the overlay's FPS counter. Copyright Intel Corporation, MIT license. The license text is extracted along with the program, in C:\Program Files\Harle.
+Memória	Memory
+Memória RAM	RAM
+Memória a {0} MHz	Memory at {0} MHz
+Memória de vídeo	Video memory
+Memória e processos	Memory and processes
+Memória rodando a {0} MHz	Memory running at {0} MHz
+Memória: um pente só	Memory: a single stick
+Memória: {0} GB dão conta	Memory: {0} GB is enough
+Memória: {0} GB sobram	Memory: {0} GB is plenty
+Memória: {0} GB {1}	Memory: {0} GB {1}
+Memória: {0} GB é pouco	Memory: {0} GB is not enough
+Menos processador reservado para o sistema	Less processor reserved for the system
+Menu Tweaker (M.I.T. nas placas antigas): Extreme Memory Profile (X.M.P.) ou EXPO, perfil 1.	Tweaker menu (M.I.T. on older boards): Extreme Memory Profile (X.M.P.) or EXPO, profile 1.
+Menu de botão direito completo no Windows 11	Full right-click menu on Windows 11
+Microsoft 365 (hub do Office)	Microsoft 365 (Office hub)
+Microsoft.Todos	Microsoft.Todos
+Modo de Jogo	Game Mode
+Modo de Jogo do Windows	Windows Game Mode
+Modo de gerenciamento de energia	Power management mode
+Modo de inicialização	Boot mode
+Modo de latência baixa	Low latency mode
+Monitor de 144 Hz ou mais, com FreeSync ou G-Sync. Em 1080p, 24 polegadas; em 1440p, 27 polegadas, se a placa de vídeo for da faixa intermediária para cima.	A 144 Hz or higher monitor, with FreeSync or G-Sync. At 1080p, 24 inches; at 1440p, 27 inches, if the graphics card is mid-range or above.
+Monitor em {0} Hz	Monitor at {0} Hz
+Monitor: {0} Hz escondem o FPS que o PC faz	Monitor: {0} Hz hides the FPS the PC makes
+Monitor: {0} Hz está bom	Monitor: {0} Hz is fine
+Monitor: {0} Hz, por enquanto tudo bem	Monitor: {0} Hz, fine for now
+Mostra notificações e fotos do celular no PC.	Shows phone notifications and photos on the PC.
+Mostrar as extensões dos arquivos	Show file extensions
+Motor dos ajustes e da interface. São da Microsoft e já vêm no Windows.	Engine for the tweaks and the interface. They're from Microsoft and come with Windows.
+Mudar o idioma para inglês	Change the language to English
+Mudar o idioma para português	Change the language to Portuguese
+Máxima neste modo	Highest in this mode
+Médio	Medium
+Médio. São os efeitos que mais pesam e menos aparecem.	Medium. They're the effects that cost the most and show the least.
+Módulo	Module
+NVAPI e NVML	NVAPI and NVML
+Na placa agora: núcleo +{0} MHz, memória +{1} MHz.	On the card now: core +{0} MHz, memory +{1} MHz.
+Na tela Apps cada app tem o próprio botão. Sem mexer lá, saem só os recomendados: notícias e apps do Bing, Paciência, Clipchamp, Skype, Cortana, o app do Copilot, Candy Crush, TikTok e outros promocionais. Depois de removidos, o Windows não os reinstala sozinho, e o Harle confere no fim se cada um saiu mesmo.	On the Apps screen each app has its own switch. If you don't change anything there, only the recommended ones are removed: Bing news and apps, Solitaire, Clipchamp, Skype, Cortana, the Copilot app, Candy Crush, TikTok and other promotional apps. Once removed, Windows doesn't reinstall them on its own, and Harle checks at the end that each one was really removed.
+Nada fora do lugar	Nothing out of place
+Nada para este PC	Nothing for this PC
+Nada para limpar	Nothing to clean
+Nada para remover	Nothing to remove
+Nada pendente que o Windows consiga ver. Confira os itens marcados como importantes.	Nothing pending that Windows can see. Check the items marked as important.
+Navegadores, launchers e outros programas grandes aparecem aqui quando estiverem abertos.	Browsers, launchers and other large programs show up here when they're open.
+Nenhum ajuste com esse filtro ou essa busca.	No tweak matches this filter or search.
+Nenhum app descobre onde o PC está. Clima, Mapas e o fuso horário automático deixam de saber a sua cidade sozinhos.	No app can find out where the PC is. Weather, Maps and automatic time zone stop knowing your city on their own.
+Nenhum dos apps opcionais está instalado.	None of the optional apps is installed.
+Nenhum dos apps recomendados está instalado.	None of the recommended apps is installed.
+Nenhum erro de hardware nos últimos {0} dias	No hardware errors in the last {0} days
+Nenhum programa configurado para abrir com o Windows	No program set to start with Windows
+Nenhuma medição ainda	No measurements yet
+Nenhuma tela azul ou desligamento inesperado em {0} dias	No blue screen or unexpected shutdown in {0} days
+Nenhuma vez em {0} dias.	Not once in {0} days.
+Nessa velocidade o perfil de memória (XMP, DOCP ou EXPO) quase com certeza está desligado, e a memória roda abaixo do que o kit entrega. Ligar rende de 10 a 20% em jogos limitados pelo processador, principalmente em Ryzen. É o maior ganho gratuito que existe. Se o seu kit for mesmo dessa velocidade, nada muda.	At this speed the memory profile (XMP, DOCP or EXPO) is almost certainly off, and the memory runs below what the kit delivers. Turning it on gives 10 to 20% in CPU-bound games, especially on Ryzen. It's the biggest free gain there is. If your kit really is this speed, nothing changes.
+Nesse modo o Resizable BAR e o Secure Boot não funcionam. Para usá-los, o disco precisa ser convertido para GPT e o CSM desligado na BIOS.	In this mode Resizable BAR and Secure Boot don't work. To use them, the disk must be converted to GPT and CSM turned off in the BIOS.
+Neste PC não há nada para este ajuste mudar agora.	On this PC there's nothing for this tweak to change right now.
+Neste PC, o que mais segura o FPS é a placa de vídeo.	On this PC, what holds FPS back the most is the graphics card.
+Neste PC, o que mais segura o FPS é o processador.	On this PC, what holds FPS back the most is the processor.
+Ninguém mais consegue pedir para controlar este PC pela Assistência Remota do Windows. Programas como AnyDesk e TeamViewer não são afetados.	Nobody can ask to control this PC through Windows Remote Assistance anymore. Programs like AnyDesk and TeamViewer aren't affected.
+No AMD Software: Adrenalin, a opção aparece como Smart Access Memory, na parte de desempenho. Se estiver disponível e ligada, está funcionando.	In AMD Software: Adrenalin, the option shows up as Smart Access Memory, in the performance section. If it's available and on, it's working.
+No Windows 10 é o player de vídeo padrão.	On Windows 10 it's the default video player.
+No Windows 11 as soluções de problemas das Configurações abrem por ele.	On Windows 11 the troubleshooters in Settings open through it.
+No Windows 11 é o player de música e vídeo padrão.	On Windows 11 it's the default music and video player.
+No Windows, aperte Win + R e rode msinfo32: a linha "Estado da Inicialização Segura" deve dizer Ativado. Para o TPM, rode tpm.msc.	In Windows, press Win + R and run msinfo32: the "Secure Boot State" line should say On. For the TPM, run tpm.msc.
+No app da Intel para a placa (Arc Control ou Intel Graphics Software), a tela de informações do sistema mostra se o Resizable BAR está ativo.	In Intel's app for the card (Arc Control or Intel Graphics Software), the system information screen shows whether Resizable BAR is active.
+No site do fabricante da placa-mãe, procure o modelo {0}, baixe a BIOS mais nova para um pendrive em FAT32 e use a ferramenta de atualização da própria BIOS (EZ Flash, M-Flash, Q-Flash ou Instant Flash).	On the motherboard maker's website, look up the model {0}, download the newest BIOS to a FAT32 USB drive and use the BIOS's own update tool (EZ Flash, M-Flash, Q-Flash or Instant Flash).
+Notebook: dá para melhorar memória e SSD; processador e placa de vídeo são fixos.	Laptop: memory and SSD can be upgraded; processor and graphics card are fixed.
+Notícias, Finanças e Esportes do Bing	Bing News, Finance and Sports
+Não abaixar o som do jogo durante chamadas	Don't lower game volume during calls
+Não abre mais	Doesn't start anymore
+Não acordar o PC para manutenção	Don't wake the PC for maintenance
+Não consegui copiar agora, a área de transferência está ocupada. Tente de novo.	I couldn't copy right now, the clipboard is busy. Try again.
+Não deixar o Windows Update trocar drivers	Don't let Windows Update replace drivers
+Não desligue o PC durante a atualização. Depois dela a BIOS volta ao padrão: ligue de novo o XMP e as outras opções.	Don't turn off the PC during the update. Afterwards the BIOS goes back to default: turn XMP and the other options on again.
+Não deu para ler os registros do Windows	Couldn't read the Windows logs
+Não encontrei um jogo desenhando quadros durante a medição. Deixe o jogo em primeiro plano e meça de novo.	I didn't find a game drawing frames during the measurement. Keep the game in the foreground and measure again.
+Não há ajustes ativos para reverter.	There are no active tweaks to revert.
+Não há jogo que peça mais do que isso hoje.	No game asks for more than this today.
+Não há placa de vídeo dedicada. É o upgrade que mais muda o desempenho em jogos.	There is no dedicated graphics card. It's the upgrade that changes gaming performance the most.
+Não há slot livre: é preciso trocar os pentes atuais por um kit maior.	There is no free slot: you need to replace the current sticks with a larger kit.
+Não há uma que valha: esse soquete parou de receber processadores. Trocar o processador pede placa-mãe nova junto.	There isn't one worth it: this socket stopped getting new processors. Changing the processor needs a new motherboard too.
+Não identificada	Not identified
+Não identificado	Not identified
+Não informar sua lista de idiomas aos sites	Don't share your language list with websites
+Não muda o FPS, muda a mira: o cursor passa a andar sempre a mesma distância para o mesmo movimento da mão. Vale a partir do próximo login.	It doesn't change FPS, it changes your aim: the cursor always moves the same distance for the same hand movement. Takes effect from the next login.
+Não mudam o FPS, mas o anti-cheat de Valorant (no Windows 11), Battlefield 6 e dos Call of Duty novos só deixa o jogo abrir com Secure Boot e TPM 2.0 ligados. Se você joga algum deles, ou pretende, ligue.	They don't change FPS, but the anti-cheat in Valorant (on Windows 11), Battlefield 6 and the newer Call of Duty games only lets the game open with Secure Boot and TPM 2.0 on. If you play any of them, or plan to, turn them on.
+Não mudam o FPS, mas o anti-cheat de Valorant (no Windows 11), Battlefield 6 e dos Call of Duty novos só deixa o jogo abrir com os dois ligados. Este PC está pronto.	They don't change FPS, but the anti-cheat in Valorant (on Windows 11), Battlefield 6 and the newer Call of Duty games only lets the game open with both on. This PC is ready.
+Não é o Paint comum, que continua.	It's not the regular Paint, which stays.
+Núcleos e threads	Cores and threads
+O Chrome deixa de ficar aberto escondido depois que você fecha a janela. Como é feito por política, o Chrome passa a mostrar o aviso "gerenciado pela sua organização" nas configurações; é só o Harle.	Chrome stops staying open in the background after you close the window. Since it's done through policy, Chrome starts showing "managed by your organization" in its settings; that's just Harle.
+O DISM devolveu o código {0}	DISM returned code {0}
+O Explorador de Arquivos abre mostrando os discos, em vez da tela Início com arquivos recentes.	File Explorer opens showing the drives, instead of the Home page with recent files.
+O Explorador deixa de examinar o conteúdo de cada pasta para decidir se ela é de fotos, músicas ou vídeos. Pastas com milhares de arquivos abrem mais rápido; em troca, todas usam a mesma visualização geral.	File Explorer stops scanning each folder's content to decide whether it holds photos, music or videos. Folders with thousands of files open faster; in return, all of them use the same general view.
+O Explorador passa a mostrar .exe, .png, .zip e as outras extensões. Ajuda a não abrir um programa disfarçado de imagem ou documento.	File Explorer starts showing .exe, .png, .zip and the other extensions. Helps you avoid opening a program disguised as an image or document.
+O Game Pass para PC precisa dele. O login do Xbox e a Game Bar ficam, porque muitos jogos dependem deles.	PC Game Pass needs it. Xbox sign-in and Game Bar stay, because many games depend on them.
+O Harle não reconheceu o modelo do processador ou da placa de vídeo, então compara só o resto.	Harle didn't recognize the processor or graphics card model, so it only compares the rest.
+O Harle precisa abrir como administrador para ajustar o Windows. Abra de novo e aceite o pedido do Windows.	Harle needs to run as administrator to tune Windows. Open it again and accept the Windows prompt.
+O Harle usa estes componentes, cada um do seu autor.	Harle uses these components, each from its own author.
+O OneDrive deixa de abrir sozinho e de sincronizar enquanto você joga. Seus arquivos ficam intactos; para sincronizar, abra o OneDrive pelo menu Iniciar.	OneDrive stops starting on its own and syncing while you play. Your files stay intact; to sync, open OneDrive from the Start menu.
+O OneDrive deixa de abrir sozinho, a aceleração do mouse é desligada, a pesquisa do menu Iniciar para de buscar na internet e parte da coleta de dados da Microsoft é desligada.	OneDrive stops starting on its own, mouse acceleration is turned off, Start menu search stops searching the internet and part of Microsoft's data collection is turned off.
+O PC desligou sem avisar {0} nos últimos {1} dias	The PC shut down without warning {0} in the last {1} days
+O PC está funcionando, com pontos de atenção	The PC is working, with points of attention
+O PC reinicia em 20 segundos e abre direto na BIOS, sem precisar acertar a tecla. Salve o que estiver aberto antes; para desistir, clique de novo no botão.	The PC restarts in 20 seconds and opens straight into the BIOS, without having to hit the key. Save what's open first; to cancel, click the button again.
+O PC reinicia em {0} s e abre direto na BIOS. Salve o que estiver aberto; para desistir, clique de novo no botão ou em Cancelar reinício, na tela Início.	The PC restarts in {0} s and opens straight into the BIOS. Save what's open; to cancel, click the button again or Cancel restart on the Home screen.
+O PC reinicia em {0} s para os ajustes valerem. Salve o que estiver aberto, ou clique em Cancelar reinício.	The PC restarts in {0} s so the tweaks take effect. Save what's open, or click Cancel restart.
+O Ryzen 7 5800X3D encaixa na mesma placa-mãe e rende uns 20% a mais em jogos limitados pelo processador. Só compensa com uma placa de vídeo forte e monitor de 144 Hz ou mais.	The Ryzen 7 5800X3D fits the same motherboard and gives about 20% more in CPU-bound games. It's only worth it with a strong graphics card and a 144 Hz or faster monitor.
+O Windows 10 saiu de suporte	Windows 10 is out of support
+O Windows Update deixa de instalar drivers junto com as atualizações, o que evita ele trocar o driver de vídeo que você instalou por um mais antigo. Em troca, drivers de outros dispositivos passam a ser por sua conta.	Windows Update stops installing drivers along with updates, which keeps it from replacing the graphics driver you installed with an older one. In return, drivers for other devices are up to you.
+O Windows deixa de anotar o que você abre para montar a lista de mais usados do menu Iniciar e os resultados da pesquisa. Essa lista para de se atualizar.	Windows stops tracking what you open to build the Start menu's most used list and search results. That list stops updating.
+O Windows deixa de baixar e instalar atualizações em segundo plano. Em troca, o PC fica sem correções de segurança e sem versões novas do Windows. Para atualizar quando quiser: Configurações, Windows Update, Retomar atualizações; com este botão ligado, o Harle pausa de novo no login seguinte.	Windows stops downloading and installing updates in the background. In return, the PC goes without security fixes and new Windows versions. To update when you want: Settings, Windows Update, Resume updates; with this switch on, Harle pauses again at the next login.
+O Windows deixa de reduzir sozinho o volume dos outros programas quando detecta uma chamada de voz, como acontece ao entrar em uma call no meio da partida.	Windows stops lowering other programs' volume on its own when it detects a voice call, as happens when you join a call in the middle of a match.
+O Windows deixa de registrar e enviar à Microsoft a lista de apps e arquivos que você abriu.	Windows stops recording and sending Microsoft the list of apps and files you opened.
+O Windows está instalado em modo Legacy (CSM)	Windows is installed in Legacy mode (CSM)
+O Windows guarda 20% do processador para tarefas de fundo enquanto há áudio ou vídeo tocando. Este ajuste baixa a reserva para 10% (SystemResponsiveness).	Windows keeps 20% of the processor for background tasks while audio or video is playing. This tweak lowers the reserve to 10% (SystemResponsiveness).
+O Windows já está em SSD e há espaço livre.	Windows is already on an SSD and there's free space.
+O Windows limita o processamento de pacotes de rede enquanto há áudio ou vídeo tocando. Este ajuste remove o limite (NetworkThrottlingIndex).	Windows throttles network packet processing while audio or video is playing. This tweak removes the limit (NetworkThrottlingIndex).
+O Windows mostra a {0} com a memória de vídeo inteira mapeada, que é o sinal de que o Resizable BAR está funcionando.	Windows shows the {0} with its whole video memory mapped, which is the sign that Resizable BAR is working.
+O Windows não aceitou agendar o reinício. Reinicie pelo menu Iniciar para os ajustes valerem.	Windows didn't accept scheduling the restart. Restart from the Start menu so the tweaks take effect.
+O Windows não entregou a lista de apps instalados, então a tela mostra todos os que o Harle conhece.	Windows didn't provide the list of installed apps, so the screen shows every one Harle knows.
+O Windows não entregou informação suficiente sobre a BIOS deste PC.	Windows didn't provide enough information about this PC's BIOS.
+O Windows não registrou nenhum travamento total.	Windows didn't record any full crash.
+O Windows registra quando o processador, a memória ou o PCI Express detectam um erro. Os corrigidos não derrubam o PC, mas mostram que algo está no limite.	Windows records when the processor, memory or PCI Express detect an error. Corrected ones don't bring the PC down, but they show that something is at its limit.
+O app de email que substituiu o Email e Calendário.	The email app that replaced Mail and Calendar.
+O assistente de IA da Microsoft. Dá para usar pelo navegador se precisar.	Microsoft's AI assistant. You can use it in the browser if you need it.
+O avaliador de compatibilidade e outras tarefas de coleta rodam em horários aleatórios e usam processador e disco, às vezes no meio da partida.	The compatibility appraiser and other collection tasks run at random times and use processor and disk, sometimes in the middle of a match.
+O botão Copiar relatório, aqui e na tela Scanner, junta as specs, os ajustes ligados e o fim do registro em um texto pronto para colar no Discord. O nome da sua conta do Windows é trocado por "(conta)".	The Copy report button, here and on the Scanner screen, gathers the specs, enabled tweaks and the end of the log into text ready to paste on Discord. Your Windows account name is replaced with "(conta)".
+O botão de Widgets sai da barra de tarefas e o Copilot do Windows é desligado. A aparência das janelas continua igual.	The Widgets button leaves the taskbar and Windows Copilot is turned off. Window appearance stays the same.
+O botão direito volta a abrir direto o menu completo, sem precisar clicar em "Mostrar mais opções". Vale depois de reiniciar o PC ou sair e entrar na conta.	Right-click goes back to opening the full menu directly, without clicking "Show more options". Takes effect after restarting the PC or signing out and back in.
+O botão só funciona com o Windows em modo UEFI. Neste PC, entre pela tecla ao ligar.	The button only works with Windows in UEFI mode. On this PC, use the key when turning it on.
+O cartão precisa de duas medições do mesmo jogo: uma antes de otimizar e outra depois, na mesma cena.	The card needs two measurements of the same game: one before optimizing and one after, in the same scene.
+O disco ainda funciona, mas já gastou boa parte das gravações que aguenta. Mantenha backup do que importa.	The disk still works, but it has already used a good part of the writes it can take. Keep a backup of what matters.
+O disco relata falha ou erros de leitura que não conseguiu corrigir. Faça backup do que importa agora e planeje a troca.	The disk reports a failure or read errors it couldn't fix. Back up what matters now and plan a replacement.
+O driver da placa escolhida na tela Início não respondeu. Confira se a marca está certa e se o driver está instalado.	The driver for the card chosen on the Home screen didn't respond. Check that the brand is right and the driver is installed.
+O driver da {0} é antigo. Drivers novos trazem otimizações para jogos recentes; baixe pelo app da fabricante.	The {0} driver is old. New drivers bring optimizations for recent games; download it from the manufacturer's app.
+O driver de vídeo não travou	The graphics driver didn't crash
+O driver de vídeo parou de responder {0}	The graphics driver stopped responding {0}
+O driver não entregou os clocks desta placa (código {0}).	The driver didn't provide this card's clocks (code {0}).
+O driver não permite mudar os clocks desta placa. É comum em notebooks.	The driver doesn't allow changing this card's clocks. It's common on laptops.
+O hardware e o sistema que o Harle encontrou neste PC.	The hardware and system Harle found on this PC.
+O mais barato	The cheapest
+O modo atual parece aceitar até {0} Hz. Mude em Configurações > Sistema > Tela > Tela avançada.	The current mode seems to accept up to {0} Hz. Change it in Settings > System > Display > Advanced display.
+O modo partida precisa do executável para reconhecer o jogo em tela cheia.	Game mode needs the executable to recognize the game in full screen.
+O monitor está em {0} Hz e aceita {1} Hz	The monitor is at {0} Hz and accepts {1} Hz
+O overclock só existe no Harle.exe.	Overclocking only exists in Harle.exe.
+O overlay não conseguiu ler o FPS neste PC. Temperatura e uso continuam aparecendo.	The overlay couldn't read FPS on this PC. Temperature and usage keep showing.
+O painel de widgets mantém processos de navegador abertos o tempo todo, ocupando centenas de MB de RAM. Desligar tira o botão da barra de tarefas.	The widgets panel keeps browser processes open all the time, using hundreds of MB of RAM. Turning it off removes the button from the taskbar.
+O passo a passo para a sua placa-mãe está na aba BIOS. Se o kit for mesmo de 2666 MHz ou menos, nada muda.	The step-by-step for your motherboard is on the BIOS tab. If the kit really is 2666 MHz or less, nothing changes.
+O perfil {0} liga {1} ajustes{2}, e faz a limpeza. Se preferir escolher, cancele e use os botões da lista. O que você mais vai notar:	The {0} profile turns on {1} tweaks{2}, and runs the cleanup. If you'd rather choose, cancel and use the switches in the list. What you'll notice the most:
+O processador, a memória e o PCI Express não registraram nenhuma falha. Se você mexeu em XMP, PBO ou overclock, é um bom sinal de estabilidade.	The processor, memory and PCI Express didn't record any failure. If you changed XMP, PBO or overclock, it's a good sign of stability.
+O próprio disco diz que está bem.	The disk itself says it's fine.
+O que abre junto com o Windows. Desligar aqui é o mesmo que desligar no Gerenciador de Tarefas, e dá para religar quando quiser.	What starts with Windows. Turning it off here is the same as turning it off in Task Manager, and you can turn it back on whenever you want.
+O que comprar	What to buy
+O que ele muda	What it changes
+O que este ajuste muda	What this tweak changes
+O que fazer	What to do
+O que fechar ao entrar	What to close when you start
+O que mais pesa é passar do limite da memória de vídeo da placa. A quantidade da sua está na tela Scanner.	What hurts most is going over the card's video memory. You can see how much yours has on the Scanner screen.
+O que o Windows registrou nos últimos 30 dias, mais o estado que os discos e a bateria informam. Depois de mexer em XMP, PBO ou overclock, volte aqui para ver se apareceram erros.	What Windows recorded in the last 30 days, plus the status reported by the drives and the battery. After changing XMP, PBO or overclocking, come back here to check for new errors.
+O que o scanner encontrou	What the scanner found
+O que vale trocar neste PC, na ordem em que rende mais, com base no hardware que o scanner encontrou.	What is worth replacing in this PC, in order of payoff, based on the hardware the scanner found.
+O scanner não encontrou gargalos de configuração neste PC.	The scanner found no configuration bottlenecks in this PC.
+O valor original fica guardado e volta quando você desliga.	The original value is saved and comes back when you turn this off.
+O valor é somado ao clock de fábrica. Nada muda até você clicar em Aplicar, e o que for aplicado vale só até reiniciar o PC.	The value is added to the factory clock. Nothing changes until you click Apply, and whatever is applied only lasts until the PC restarts.
+O {0} ainda dá conta, mas segura o FPS mínimo em jogos pesados de processador.	The {0} still handles it, but it holds back minimum FPS in CPU-heavy games.
+O {0} dá conta de placas bem mais fortes que a {1}. Nos jogos, é ela que chega a 100% de uso primeiro.	The {0} can handle much stronger cards than the {1}. In games, the graphics card hits 100% usage first.
+O {0} não é o que limita este PC e aguenta uma placa de vídeo mais forte que a atual.	The {0} is not what limits this PC and can handle a stronger graphics card than the current one.
+O {0} não é o que limita este PC.	The {0} is not what limits this PC.
+O {0} é antigo para os jogos atuais, que pedem pelo menos 6 núcleos rápidos. Ele causa travadas mesmo com uma boa placa de vídeo.	The {0} is old for current games, which need at least 6 fast cores. It causes stutters even with a good graphics card.
+O último foi em {0}. A tela fica preta por alguns segundos e o jogo fecha. As causas comuns são overclock da placa, driver com defeito e placa superaquecendo.	The last one was on {0}. The screen goes black for a few seconds and the game closes. Common causes are graphics card overclock, a faulty driver and an overheating card.
+O último foi em {0}. Pode ter sido queda de energia ou o botão segurado. Se aconteceu no meio do jogo, as causas comuns são fonte fraca ou velha, superaquecimento e overclock ou XMP instável.	The last one was on {0}. It may have been a power outage or the power button held down. If it happened mid-game, common causes are a weak or old power supply, overheating and an unstable overclock or XMP.
+O último teste de memória encontrou erros	The last memory test found errors
+O último teste de memória passou	The last memory test passed
+OC Tweaker, DRAM Configuration: Load XMP Setting, perfil 1.	OC Tweaker, DRAM Configuration: Load XMP Setting, profile 1.
+Onde fica	Where to find it
+Opcionais: marque só o que você não usa	Optional: only check what you don't use
+Opcional: fora do perfil Equilibrado	Optional: not part of the Balanced profile
+Ordem	Order
+Os ajustes que mais rendem e que só você pode fazer. O Harle confere pelo Windows o que já está ligado e mostra onde fica cada opção na sua placa-mãe.	The tweaks with the biggest payoff that only you can make. Harle checks through Windows what is already on and shows where each option is on your motherboard.
+Os ajustes recomendados, sem mexer na aparência nem no consumo de energia.	The recommended tweaks, without touching appearance or power use.
+Os apps antigos de email e agenda do Windows.	The old Windows Mail and Calendar apps.
+Os arquivos do Windows estão íntegros.	Windows files are intact.
+Os arquivos do Windows foram reparados. Reinicie o PC.	Windows files were repaired. Restart the PC.
+Os navegadores da Microsoft deixam de entregar aos sites a lista de idiomas instalados no Windows, que serve para identificar o PC.	Microsoft browsers stop giving websites the list of languages installed in Windows, which is used to fingerprint the PC.
+Os perfis Competitivo e Equilibrado já gravam no driver os três primeiros itens. Para conferir ou mudar o resto: Painel de Controle da NVIDIA, Gerenciar as configurações em 3D, aba de configurações globais.	The Competitive and Balanced profiles already write the first three items to the driver. To check or change the rest: NVIDIA Control Panel, Manage 3D settings, Global settings tab.
+Otimizações para jogos em janela	Optimizations for windowed games
+Overclock da placa de vídeo	Graphics card overclock
+Overclock da placa de vídeo. Só mexa aqui se você sabe o que está fazendo.	Graphics card overclock. Only touch this if you know what you are doing.
+Overclock é por sua conta e risco. Clock alto demais trava o jogo, congela a imagem, mostra defeitos na tela ou reinicia o PC, e forçar a placa por muito tempo pode encurtar a vida dela. O Harle não mexe em tensão nem em ventoinha, só aceita valores dentro da faixa que o próprio driver informa e nunca reaplica sozinho: reiniciar o PC devolve a placa ao padrão de fábrica.	Overclocking is at your own risk. Too high a clock crashes the game, freezes the image, shows artifacts on screen or restarts the PC, and pushing the card for a long time can shorten its life. Harle does not touch voltage or fans, only accepts values within the range the driver itself reports and never reapplies on its own: restarting the PC returns the card to factory defaults.
+Overlay no jogo	In-game overlay
+PAGE_FAULT_IN_NONPAGED_AREA: memória instável ou driver com defeito.	PAGE_FAULT_IN_NONPAGED_AREA: unstable memory or a faulty driver.
+Paciência (Solitaire Collection)	Solitaire (Solitaire Collection)
+Painel de Controle da NVIDIA	NVIDIA Control Panel
+Painel de Controle da NVIDIA, Informações do sistema (canto de baixo, à esquerda): a linha "Barra redimensionável" deve dizer Sim.	NVIDIA Control Panel, System Information (bottom-left corner): the "Resizable BAR" line should say Yes.
+Painel para programadores.	Developer dashboard.
+Para 1080p em qualidade alta	For 1080p at high quality
+Para 1080p no máximo e 1440p em alto, com folga de memória de vídeo	For 1080p maxed out and 1440p on high, with spare video memory
+Para 1440p em qualidade alta com FPS alto	For 1440p at high quality with high FPS
+Para 1440p no máximo e 4K com DLSS ou FSR	For 1440p maxed out and 4K with DLSS or FSR
+Para as dicas e propagandas do menu Iniciar e da tela de bloqueio, e impede o Windows de instalar sozinho jogos e apps promovidos.	Stops tips and ads in the Start menu and lock screen, and keeps Windows from installing promoted games and apps by itself.
+Para o serviço que fica lendo o disco para montar o índice da pesquisa. Ajuda principalmente em PCs com HD. Em troca, a pesquisa de arquivos do menu Iniciar e do Explorador fica bem mais lenta; a pesquisa de programas continua.	Stops the service that keeps reading the disk to build the search index. Helps mostly on PCs with a hard drive. In exchange, file search in the Start menu and File Explorer gets much slower; program search still works.
+Para quem tem placa Radeon. Os perfis Competitivo e Equilibrado já ligam o Anti-Lag e desligam o Chill. O resto fica em Jogos, Gráficos.	For Radeon cards. The Competitive and Balanced profiles already turn on Anti-Lag and turn off Chill. The rest is under Gaming, Graphics.
+Parar de coletar o que você digita e escreve	Stop collecting what you type and write
+Parar de enviar atualizações para outros PCs	Stop sending updates to other PCs
+Parar de registrar os programas que você abre	Stop tracking the programs you open
+Passa o gerenciamento da fila de quadros do processador para a placa de vídeo. Pode reduzir a latência em placas de vídeo recentes.	Moves management of the frame queue from the CPU to the graphics card. Can reduce latency on recent graphics cards.
+Passos de {0} MHz, até +{1} MHz	Steps of {0} MHz, up to +{1} MHz
+Pausar o Windows Update até 2099	Pause Windows Update until 2099
+Pendrives, HDs externos e discos deixam de abrir janelas ou executar algo sozinhos ao serem conectados.	Flash drives, external drives and discs no longer open windows or run anything by themselves when plugged in.
+Perfil global da AMD para desempenho	AMD global performance profile
+Perfil global da NVIDIA para desempenho	NVIDIA global performance profile
+Perfil {0} aplicado: {1} de {2} ajustes ligados.	{0} profile applied: {1} of {2} tweaks on.
+Perfil {0} escolhido. Nada muda até você clicar em Aplicar perfil.	{0} profile selected. Nothing changes until you click Apply profile.
+Pessoas e Mensagens	People and Messaging
+Peças de terceiros	Third-party components
+Placa de vídeo	Graphics card
+Placa de vídeo AMD	AMD graphics card
+Placa de vídeo NVIDIA	NVIDIA graphics card
+Placa de vídeo a {0:0} °C, acima do limite de {1} °C	Graphics card at {0:0} °C, above the {1} °C limit
+Placa de vídeo: está boa	Graphics card: it's fine
+Placa de vídeo: o PC usa o vídeo integrado	Graphics card: the PC uses integrated graphics
+Placa de vídeo: vale trocar quando der	Graphics card: worth replacing when you can
+Placa de vídeo: {0}. O perfil de vídeo dela entra na próxima vez que você aplicar um perfil.	Graphics card: {0}. Its video profile is applied the next time you apply a profile.
+Placa de vídeo: {0}{1}, driver {2}{3}	Graphics card: {0}{1}, driver {2}{3}
+Placa de vídeo: é o que mais segura o FPS	Graphics card: it's what holds back FPS the most
+Placa-mãe	Motherboard
+Placa-mãe: {0} {1}, BIOS {2}	Motherboard: {0} {1}, BIOS {2}
+Plano de energia	Power plan
+Plano de energia de desempenho máximo	Ultimate performance power plan
+Plano de energia: {0} | Modo de Jogo {1} | Agendamento de GPU {2} | Integridade de Memória {3}	Power plan: {0} | Game Mode {1} | GPU scheduling {2} | Memory Integrity {3}
+Planos Móveis e Carteira	Mobile Plans and Wallet
+Plataforma	Platform
+Por enquanto o overclock do Harle só funciona em placas NVIDIA. Para placas AMD, use o Adrenalin.	For now Harle's overclock only works on NVIDIA cards. For AMD cards, use Adrenalin.
+Por padrão o Windows usa a sua internet para distribuir atualizações a outros computadores. Desligar libera o upload e evita picos de ping.	By default Windows uses your internet to distribute updates to other computers. Turning it off frees upload and avoids ping spikes.
+Portal de Realidade Misturada	Mixed Reality Portal
+PowerShell e WPF	PowerShell and WPF
+Precisa de	Needs
+Preferência por desempenho máximo.	Prefer maximum performance.
+Prefira 12 GB ou mais. Hoje 8 GB é o mínimo e já aperta em jogos novos com texturas no alto.	Go for 12 GB or more. Today 8 GB is the minimum and is already tight in new games with high textures.
+Previsão do tempo.	Weather forecast.
+Primeiro, de graça	First, for free
+Prioridade alta para o perfil de jogos	High priority for the games profile
+Privacidade	Privacy
+Processador: está bom	CPU: it's fine
+Processador: está limitando o PC	CPU: it's limiting the PC
+Processador: {0} ({1} núcleos, {2} threads)	CPU: {0} ({1} cores, {2} threads)
+Procurando os apps instalados...	Looking for installed apps...
+Procure o código na internet junto com o nome da sua placa-mãe ou de vídeo.	Search the code online together with the name of your motherboard or graphics card.
+Procure por Above 4G Decoding e por Resizable BAR (ou Re-Size BAR) no menu avançado ou de PCI.	Look for Above 4G Decoding and Resizable BAR (or Re-Size BAR) in the advanced or PCI menu.
+Procure por CSM no menu Boot e deixe em Disabled.	Look for CSM in the Boot menu and set it to Disabled.
+Procure por PTT (Platform Trust Technology) no menu avançado ou de segurança.	Look for PTT (Platform Trust Technology) in the advanced or security menu.
+Procure por Precision Boost Overdrive, dentro de AMD Overclocking.	Look for Precision Boost Overdrive, under AMD Overclocking.
+Procure por Secure Boot no menu Boot ou Security.	Look for Secure Boot in the Boot or Security menu.
+Procure por XMP, DOCP ou EXPO no menu de overclock ou de memória.	Look for XMP, DOCP or EXPO in the overclocking or memory menu.
+Procure por fTPM no menu avançado ou de segurança.	Look for fTPM in the advanced or security menu.
+Programas de inicialização sem espera	Startup programs without delay
+Pronto.	Done.
+Pronto. Importante: há 1 ajuste de BIOS pendente, que rende mais que qualquer ajuste do Windows. Veja a aba BIOS.	Done. Important: there is 1 pending BIOS setting, which gains more than any Windows tweak. See the BIOS tab.
+Pronto. Importante: há {0} ajustes de BIOS pendentes, que rendem mais que qualquer ajuste do Windows. Veja a aba BIOS.	Done. Important: there are {0} pending BIOS settings, which gain more than any Windows tweak. See the BIOS tab.
+Qualidade da filtragem de textura	Texture filtering quality
+Qualidade ou Equilibrado em 1080p, quando o jogo oferecer.	Quality or Balanced at 1080p, when the game offers it.
+Qualidade ou Equilibrado em 1080p. É o ajuste que mais levanta o FPS em placas de entrada.	Quality or Balanced at 1080p. It's the setting that raises FPS the most on entry-level cards.
+Quando um programa trava, o Windows deixa de montar e enviar o relatório para a Microsoft. Poupa disco e processador logo depois de um travamento.	When a program crashes, Windows no longer builds and sends the report to Microsoft. Saves disk and CPU right after a crash.
+Quando vale	When it's worth it
+Quem fez o Harle e de quem são as peças que ele usa.	Who made Harle and who owns the components it uses.
+Radeon RX 9060 XT 16 GB ou GeForce RTX 5060 Ti 16 GB	Radeon RX 9060 XT 16 GB or GeForce RTX 5060 Ti 16 GB
+Radeon RX 9070 XT 16 GB ou GeForce RTX 5070 Ti 16 GB	Radeon RX 9070 XT 16 GB or GeForce RTX 5070 Ti 16 GB
+Recomendados	Recommended
+Recomendados para remover	Recommended to remove
+Rede	Network
+Reduzir a telemetria do Windows	Reduce Windows telemetry
+Reduzir transparência e animações	Reduce transparency and animations
+Refrigeração	Cooling
+Registro	Registry
+Registro de atividades	Activity history
+Registros do Windows	Windows logs
+Reiniciando o PC...	Restarting the PC...
+Reiniciar e abrir a BIOS	Restart into the BIOS
+Reiniciar o PC	Restart the PC
+Reiniciar o PC sozinho ao terminar	Restart the PC automatically when done
+Reinstale o driver de vídeo pela opção de instalação limpa do instalador da NVIDIA ou da AMD.	Reinstall the graphics driver using the clean install option in the NVIDIA or AMD installer.
+Reinício cancelado. Os ajustes que pedem reinício só passam a valer depois dele.	Restart canceled. Tweaks that need a restart only take effect after it.
+Reinício cancelado. Se o próximo reinício abrir na BIOS mesmo assim, é só sair dela sem salvar.	Restart canceled. If the next restart opens the BIOS anyway, just exit it without saving.
+Relatório copiado ({0} caracteres). Cole no Discord com Ctrl+V.	Report copied ({0} characters). Paste it in Discord with Ctrl+V.
+Relógio e Alarmes	Clock and Alarms
+Remove o botão de áreas de trabalho da barra de tarefas. O atalho Win + Tab continua funcionando.	Removes the Task View button from the taskbar. The Win + Tab shortcut still works.
+Remove os segundos de atraso que o Windows coloca antes de abrir os programas configurados para iniciar junto com o sistema.	Removes the seconds of delay Windows adds before opening programs set to start with the system.
+Removendo os apps marcados. Pode levar um ou dois minutos...	Removing the selected apps. It may take a minute or two...
+Remover	Remove
+Remover os apps marcados na tela Apps	Remove the apps checked on the Apps screen
+Remover os marcados	Remove selected
+Reparando os arquivos do Windows. Pode levar de 10 a 30 minutos e precisa de internet; a janela continua respondendo.	Repairing Windows files. It may take 10 to 30 minutes and needs internet; the window stays responsive.
+Reparar os arquivos do Windows	Repair Windows files
+Reparo concluído. Reinicie o PC para terminar.	Repair finished. Restart the PC to complete it.
+Resolução	Resolution
+Resultado da verificação: {0}	Scan result: {0}
+Resumo dos ajustes	Tweaks summary
+Revertendo {0} de {1}: {2}...	Reverting {0} of {1}: {2}...
+Roda a limpeza oficial do Windows (DISM) que remove versões antigas de componentes deixadas pelas atualizações. Costuma liberar alguns GB e pode levar de 2 a 15 minutos.	Runs the official Windows cleanup (DISM) that removes old component versions left by updates. It usually frees a few GB and may take 2 to 15 minutes.
+Rode as limpezas da tela Otimizar e desinstale jogos parados.	Run the cleanups on the Optimize screen and uninstall games you don't play.
+Ryzen 5 5600 (o mais barato que resolve) ou Ryzen 7 5800X3D (o melhor de AM4 para jogos). Encaixam na sua placa-mãe: atualize a BIOS antes de trocar o processador.	Ryzen 5 5600 (the cheapest that solves it) or Ryzen 7 5800X3D (the best AM4 chip for gaming). They fit your motherboard: update the BIOS before swapping the CPU.
+Ryzen 5 5600 com placa-mãe B550, aproveitando a memória DDR4 que você já tem.	Ryzen 5 5600 with a B550 motherboard, reusing the DDR4 memory you already have.
+Ryzen 5 7600X com placa-mãe B650 e memória DDR5. Em {0} a DDR5 está cara, e isso pesa na conta.	Ryzen 5 7600X with a B650 motherboard and DDR5 memory. In {0} DDR5 is expensive, and that weighs on the total.
+Ryzen 7 9800X3D (o melhor para jogos hoje) ou Ryzen 5 7600X3D. Encaixam na sua placa-mãe com a BIOS atualizada.	Ryzen 7 9800X3D (the best for gaming today) or Ryzen 5 7600X3D. They fit your motherboard with an updated BIOS.
+SSD NVMe M.2 de 1 TB se a placa-mãe tiver o slot M.2 (quase todas de 2018 para cá têm); senão, SSD SATA de 2,5 polegadas. Em {0} os SSDs estão mais caros que no ano passado.	1 TB M.2 NVMe SSD if the motherboard has an M.2 slot (almost all from 2018 onward do); otherwise, a 2.5-inch SATA SSD. In {0} SSDs are more expensive than last year.
+SSD quase cheio fica mais lento, e as atualizações de jogos precisam de espaço para instalar.	A nearly full SSD gets slower, and game updates need space to install.
+SSD: o Windows está em um HD	SSD: Windows is on a hard drive
+SSDs acima de 70 °C reduzem a velocidade para se proteger. Um dissipador no M.2 ou mais ventilação no gabinete resolve.	SSDs above 70 °C slow down to protect themselves. An M.2 heatsink or more case airflow solves it.
+SSDs ficam mais lentos quando quase cheios. A limpeza do Harle apaga os temporários; tente manter pelo menos 15% livre.	SSDs get slower when nearly full. Harle's cleanup deletes temp files; try to keep at least 15% free.
+SYSTEM_SERVICE_EXCEPTION: geralmente um driver. Atualize o driver de vídeo e o de chipset.	SYSTEM_SERVICE_EXCEPTION: usually a driver. Update the graphics and chipset drivers.
+SYSTEM_THREAD_EXCEPTION_NOT_HANDLED: geralmente um driver.	SYSTEM_THREAD_EXCEPTION_NOT_HANDLED: usually a driver.
+Sacudir uma janela com o mouse deixa de minimizar todas as outras.	Shaking a window with the mouse no longer minimizes all the others.
+Saem os que estiverem marcados na tela Apps. Sem mexer lá, são os recomendados: notícias e apps do Bing, Paciência, Clipchamp, Skype, Cortana, o app do Copilot, Candy Crush, TikTok e outros promocionais. Para escolher, cancele e abra a tela Apps antes. Não voltam sozinhos.	The ones checked on the Apps screen are removed. If you don't change anything there, it's the recommended ones: news and Bing apps, Solitaire, Clipchamp, Skype, Cortana, the Copilot app, Candy Crush, TikTok and other promotional apps. To choose, cancel and open the Apps screen first. They don't come back by themselves.
+Sai	Remove
+Sair do modo partida	Exit play mode
+Sair do programa de aperfeiçoamento do Windows	Leave the Windows customer experience program
+Salve com F10. Se o PC não ligar, espere: depois de algumas tentativas a BIOS volta sozinha ao padrão.	Save with F10. If the PC doesn't boot, wait: after a few attempts the BIOS resets to defaults by itself.
+Saúde do PC	PC Health
+Scanner concluído.	Scan finished.
+Se a placa de vídeo não passa de 60 FPS nos seus jogos, troque a placa antes do monitor.	If the graphics card doesn't go over 60 FPS in your games, replace the card before the monitor.
+Se foi em jogo: confira as temperaturas na tela Monitor, desfaça overclocks e, se continuar, desconfie da fonte.	If it happened in a game: check temperatures on the Monitor screen, undo overclocks and, if it continues, suspect the power supply.
+Se o PC for compatível, a atualização para o Windows 11 é gratuita pelo Windows Update. O app Verificação de Integridade do PC, da Microsoft, diz se é.	If the PC is compatible, the upgrade to Windows 11 is free through Windows Update. Microsoft's PC Health Check app tells you if it is.
+Se o processador passar de 85 °C em jogo, limpe o cooler e troque a pasta térmica; calor demais derruba o FPS.	If the CPU goes over 85 °C in games, clean the cooler and replace the thermal paste; too much heat drops FPS.
+Se um dia quiser mais	If you want more someday
+Se usou a aba AVANÇADO, clique em Voltar ao padrão.	If you used the ADVANCED tab, click Restore defaults.
+Se você usa o Teams no trabalho ou na escola, deixe.	If you use Teams for work or school, keep it.
+Secure Boot e TPM 2.0: ligados	Secure Boot and TPM 2.0: on
+Sem código	No code
+Sem eles o Harle não consegue contar erros, telas azuis e desligamentos. Feche e abra o Harle de novo.	Without them Harle can't count errors, blue screens and shutdowns. Close and reopen Harle.
+Sem leitura	No reading
+Sem leitura do hardware. Clique em Escanear de novo.	No hardware reading. Click Scan again.
+Sem o Resizable BAR as placas Intel Arc perdem uma parte grande do desempenho e travam mais. O Harle não conseguiu confirmar pelo Windows se ele está ligado.	Without Resizable BAR, Intel Arc cards lose a big part of their performance and stutter more. Harle couldn't confirm through Windows whether it is on.
+Sem registro	No record
+Settings, Advanced, PCIe/PCI Sub-system Settings: ligue Above 4G memory e Re-Size BAR Support.	Settings, Advanced, PCIe/PCI Sub-system Settings: turn on Above 4G memory and Re-Size BAR Support.
+Settings, Advanced, Windows OS Configuration: BIOS Mode em UEFI.	Settings, Advanced, Windows OS Configuration: BIOS Mode to UEFI.
+Settings, IO Ports: ligue Above 4G Decoding e Re-Size BAR Support.	Settings, IO Ports: turn on Above 4G Decoding and Re-Size BAR Support.
+Settings, Miscellaneous: AMD CPU fTPM em Enabled.	Settings, Miscellaneous: AMD CPU fTPM to Enabled.
+Settings, Miscellaneous: Intel Platform Trust Technology (PTT) em Enabled.	Settings, Miscellaneous: Intel Platform Trust Technology (PTT) to Enabled.
+Settings, Security, Trusted Computing: Security Device Support em Enable, com AMD fTPM.	Settings, Security, Trusted Computing: Security Device Support to Enable, with AMD fTPM.
+Settings, Security, Trusted Computing: Security Device Support em Enable, com PTT.	Settings, Security, Trusted Computing: Security Device Support to Enable, with PTT.
+Sincronização vertical	Vertical sync
+Slots	Slots
+Sobe a prioridade de processador, GPU e disco do perfil "Games" do agendador multimídia. Só vale para jogos que usam esse perfil.	Raises CPU, GPU and disk priority for the "Games" profile of the multimedia scheduler. Only affects games that use that profile.
+Som do Windows e aviso na tela quando a placa de vídeo fica em {0} °C ou mais por 3 segundos seguidos, repetido a cada minuto enquanto continuar quente. Deixe o Harle aberto (pode minimizar).	Windows sound and an on-screen warning when the graphics card stays at {0} °C or more for 3 seconds in a row, repeated every minute while it stays hot. Keep Harle open (it can be minimized).
+Sombras e volumétricos	Shadows and volumetrics
+Sua voz deixa de ser enviada à Microsoft pelo ditado do Windows. O ditado online (Win + H) para de funcionar; o reconhecimento de fala local continua.	Your voice is no longer sent to Microsoft by Windows dictation. Online dictation (Win + H) stops working; local speech recognition still works.
+Suba aos poucos, um passo de cada vez, e teste em jogo por alguns minutos antes do próximo. Se a imagem falhar ou o jogo fechar, volte ao último valor que funcionou.	Go up gradually, one step at a time, and test in a game for a few minutes before the next one. If the image glitches or the game closes, go back to the last value that worked.
+Só aparecem programas abertos agora. Não marque o launcher do jogo que você vai jogar.	Only programs open right now are shown. Don't check the launcher of the game you're going to play.
+Só manual: nenhum perfil liga	Manual only: no profile turns it on
+Só manual: roda só quando você clica	Manual only: runs only when you click
+Só mexa aqui se você sabe o que está fazendo	Only touch this if you know what you are doing
+Só no Harle.exe	Harle.exe only
+Só no Harle.exe.	Harle.exe only.
+Só no Windows 11	Windows 11 only
+Só serve para os óculos Windows Mixed Reality.	Only needed for Windows Mixed Reality headsets.
+TPM 2.0 (o deste PC é {0})	TPM 2.0 (this PC's is {0})
+Tamanho do cache de shader	Shader cache size
+Taxa em uso	Current refresh rate
+Tela: {0} x {1} a {2} Hz	Display: {0} x {1} at {2} Hz
+Temperatura, uso e clocks da placa de vídeo, mais processador e memória, atualizados a cada segundo. Overlay e alerta de temperatura ficam no fim da tela.	Graphics card temperature, usage and clocks, plus CPU and memory, updated every second. Overlay and temperature alert are at the bottom of the screen.
+Temporários do Windows e downloads antigos do Windows Update. Seus arquivos pessoais não são tocados.	Windows temp files and old Windows Update downloads. Your personal files are not touched.
+Testar a memória (reinicia o PC)	Test memory (restarts the PC)
+Teste com um pente de cada vez.	Test one stick at a time.
+Teste de {0}, sem erros.	Test from {0}, no errors.
+Teste de {0}. Com XMP ligado, tente desligar e testar de novo; se os erros continuarem, um dos pentes provavelmente tem defeito.	Test from {0}. With XMP on, try turning it off and testing again; if the errors continue, one of the sticks is probably faulty.
+Timer do Windows em 0,5 ms	Windows timer at 0.5 ms
+Tira a transparência das janelas e as animações de minimizar e da barra de tarefas. O ganho em jogo é pequeno; o Windows fica com resposta mais seca.	Removes window transparency and the minimize and taskbar animations. The in-game gain is small; Windows feels snappier.
+Tirar a caixa de pesquisa da barra de tarefas	Remove the search box from the taskbar
+Tirar a pesquisa da web do menu Iniciar	Remove web search from the Start menu
+Tirar o OneDrive da inicialização	Remove OneDrive from startup
+Tirar o botão Visão de Tarefas	Remove the Task View button
+Todos	All
+Trabalhando. Pode levar alguns minutos; a janela continua respondendo.	Working. It may take a few minutes; the window stays responsive.
+Tudo aparece na tela Otimizar. O valor original de cada ajuste fica guardado em C:\ProgramData\Harle\backup.json, e Reverter tudo devolve o Windows ao que era.	Everything shows up on the Optimize screen. The original value of each tweak is saved in C:\ProgramData\Harle\backup.json, and Revert all returns Windows to what it was.
+Tudo em ordem com a saúde deste PC	All good with this PC's health
+Tutoriais do Windows.	Windows tutorials.
+Um minuto depois de aplicar, com contagem na tela e botão para cancelar. Salve o que estiver aberto antes: o reinício fecha os programas sem perguntar.	One minute after applying, with an on-screen countdown and a cancel button. Save what you have open first: the restart closes programs without asking.
+Um passo além	One step further
+Um ponto de restauração é criado antes, e Reverter tudo desfaz os ajustes. Só os apps removidos e os arquivos apagados não voltam.	A restore point is created first, and Revert all undoes the tweaks. Only removed apps and deleted files don't come back.
+Um segundo pente de {0} GB igual ao atual, no slot livre: chega a {1} GB e liga o dual channel.	A second {0} GB stick identical to the current one, in the free slot: reaches {1} GB and enables dual channel.
+Um segundo pente igual ao atual ({0}, mesma capacidade e velocidade), para ligar o dual channel.	A second stick identical to the current one ({0}, same capacity and speed), to enable dual channel.
+Um único pente de memória	A single memory stick
+Usada, mais barata	Used, cheaper
+Usando {0} de RAM agora.	Using {0} of RAM right now.
+Uso do processador	CPU usage
+VIDEO_TDR_FAILURE: a placa de vídeo parou de responder. Overclock da placa ou driver.	VIDEO_TDR_FAILURE: the graphics card stopped responding. Card overclock or driver.
+VIDEO_TDR_TIMEOUT_DETECTED: a placa de vídeo parou de responder. Overclock da placa ou driver.	VIDEO_TDR_TIMEOUT_DETECTED: the graphics card stopped responding. Card overclock or driver.
+Venda de planos de dados e a carteira antiga da Microsoft.	Data plan sales and Microsoft's old wallet.
+Ver todos, um por um	See all, one by one
+Verificando os arquivos do Windows. Pode levar alguns minutos.	Checking Windows files. It may take a few minutes.
+Verificar de novo	Check again
+Verificar os arquivos do Windows	Check Windows files
+Verificação de saúde concluída.	Health check finished.
+Versão	Version
+Versão da BIOS	BIOS version
+Versão da BIOS: recente	BIOS version: recent
+Versão {0}	Version {0}
+Versão {0}, de {1}.	Version {0}, from {1}.
+Versão {0}. Otimizador de Windows para jogos, com scanner de hardware, medição de FPS, monitor com overlay e alerta de temperatura, modo partida e perfis de driver.	Version {0}. Windows optimizer for gaming, with hardware scanner, FPS benchmark, monitor with overlay and temperature alert, play mode and driver profiles.
+Versões novas	New versions
+Visualizador 3D, 3D Builder e Print 3D	3D Viewer, 3D Builder and Print 3D
+Você saiu.	You left.
+Voltar ao padrão	Restore defaults
+Volte para o jogo. A medição começa em {0} s.	Go back to the game. The measurement starts in {0} s.
+Vortex Optimizer - conferir ajustes	Vortex Optimizer - check tweaks
+WHEA_UNCORRECTABLE_ERROR: erro de hardware. Quase sempre overclock, PBO, Curve Optimizer ou XMP instável, ou superaquecimento.	WHEA_UNCORRECTABLE_ERROR: hardware error. Almost always an unstable overclock, PBO, Curve Optimizer or XMP, or overheating.
+Widgets e Copilot somem	Widgets and Copilot go away
+Windows em modo UEFI, com o CSM desligado, e Above 4G Decoding ligado. Em placas-mãe antigas a opção só aparece depois de atualizar a BIOS.	Windows in UEFI mode, with CSM off, and Above 4G Decoding on. On old motherboards the option only shows up after a BIOS update.
+XMP: ligado, memória a {0} MHz	XMP: on, memory at {0} MHz
+ajustes ativos	active tweaks
+cerca de {0:0.#} vezes o desempenho da sua	about {0:0.#} times the performance of yours
+cerca de {0:0}% a mais de desempenho que a sua	about {0:0}% more performance than yours
+com prioridade alta	with high priority
+corrigido	corrected
+da mesma velocidade da atual	the same speed as the current one
+de {0} do perfil ligados	of {0} in the profile on
+do mesmo tipo da atual	the same type as the current one
+erro de hardware corrigido	corrected hardware error
+erros de hardware corrigidos	corrected hardware errors
+github.com/Harlezinhuu/HarleOptimizer, na parte Releases. O Harle avisa ao abrir quando sai uma versão mais nova.	github.com/Harlezinhuu/HarleOptimizer, under Releases. Harle tells you when it opens if a newer version is out.
+king.com.CandyCrushSaga	king.com.CandyCrushSaga
+king.com.CandyCrushSodaSaga	king.com.CandyCrushSodaSaga
+menos de 1 MB	less than 1 MB
+na média	on average
+não abre mais com o Windows	no longer starts with Windows
+outubro de 2026	October 2026
+sem diferença em {0}	no difference in {0}
+sem mudar a prioridade, porque o jogo não permitiu	without changing priority, because the game didn't allow it
+todos os recomendados ligados	all recommended on
+vez	time
+vezes	times
+volta a abrir com o Windows	starts with Windows again
+{0:+0.0;-0.0;0.0}% na média	{0:+0.0;-0.0;0.0}% on average
+{0:N0} GB livres de {1:N0} GB	{0:N0} GB free of {1:N0} GB
+{0:N1} GB em uso, {1} processos	{0:N1} GB in use, {1} processes
+{0:N1} de {1:N0} GB	{0:N1} of {1:N0} GB
+{0} (o motivo está no log)	{0} (the reason is in the log)
+{0} Em alguns notebooks a memória é soldada: confira o modelo antes de comprar.	{0} On some laptops the memory is soldered: check the model before buying.
+{0} GB de RAM	{0} GB of RAM
+{0} GB de memória de vídeo	{0} GB of video memory
+{0} O Harle não consegue ler a fonte: olhe a etiqueta dela e meça o espaço do gabinete.	{0} Harle can't read the power supply: check its label and measure the space in the case.
+{0} Reinicie o PC para tudo valer.	{0} Restart the PC for everything to take effect.
+{0} Se travar em jogo, tente o perfil 2 ou uma velocidade um degrau abaixo.	{0} If games crash, try profile 2 or one speed step lower.
+{0} ajustes  ·  {1} ativos  ·  {2}	{0} tweaks  ·  {1} active  ·  {2}
+{0} ajustes de BIOS pendentes neste PC	{0} pending BIOS settings on this PC
+{0} ajustes revertidos. Reinicie o PC para concluir.	{0} tweaks reverted. Restart the PC to finish.
+{0} apps que o Harle sabe remover estão instalados.	{0} apps that Harle can remove are installed.
+{0} ações	{0} actions
+{0} de RAM em uso	{0} of RAM in use
+{0} de hardware nos últimos {1} dias	Hardware: {0} in the last {1} days
+{0} de {1} ligados	{0} of {1} on
+{0} de {1} slots ocupados	{0} of {1} slots used
+{0} em 1 disco	{0} on 1 drive
+{0} em {1} discos	{0} on {1} drives
+{0} nos últimos {1} dias	{0} in the last {1} days
+{0} não saíram	{0} were not removed
+{0} núcleos, {1} threads	{0} cores, {1} threads
+{0} pentes de memória	{0} memory sticks
+{0} {1} a mais	{0} {1} more
+{0} {1} a menos	{0} {1} less
+{0}% da vida útil usada	{0}% of lifespan used
+{0}, com {1} ajustes ativos	{0}, with {1} active tweaks
+{0}, no formato de notebook (SO-DIMM)	{0}, laptop form factor (SO-DIMM)
+{0}, o último em {1}. Cada um travou ou reiniciou o PC.	{0}, the last one on {1}. Each one froze or restarted the PC.
+{0}, {1} (o motivo está no log)	{0}, {1} (the reason is in the log)
+{0}. Costuma ser XMP instável: tente uma velocidade um degrau abaixo ou mais tensão na memória.	{0}. Usually an unstable XMP: try one speed step lower or more memory voltage.
+{0}. Costumam vir de cabo riser, placa mal encaixada ou da economia de energia do PCIe; em geral não travam nada.	{0}. They usually come from a riser cable, a badly seated card or PCIe power saving; generally they don't freeze anything.
+{0}. É o sinal clássico de PBO, Curve Optimizer ou overclock no limite.	{0}. It's the classic sign of PBO, Curve Optimizer or overclock at the limit.
+{0}: com defeito	{0}: faulty
+{0}: perto do fim da vida útil	{0}: near the end of its lifespan
+{0}: saudável	{0}: healthy
+{0}: {1:N1} FPS de média, {2:N1} FPS de 1% low	{0}: {1:N1} FPS average, {2:N1} FPS 1% low
+É a plataforma atual da Intel. Não há o que trocar agora.	It's Intel's current platform. Nothing to replace now.
+É a quantidade que os jogos atuais pedem. Feche o navegador antes de títulos pesados e ela não limita.	It's the amount current games ask for. Close the browser before heavy titles and it won't limit you.
+É a troca que mais se sente no dia a dia: o PC liga em segundos, os jogos carregam várias vezes mais rápido e mundos abertos param de travar ao carregar cenário.	It's the upgrade you feel most day to day: the PC boots in seconds, games load several times faster and open worlds stop stuttering while loading scenery.
+É anotado quando você liga o primeiro ajuste.	It's recorded when you turn on the first tweak.
+É o limite desta placa em jogos novos. Mantenha texturas em Médio ou Alto e use DLSS em Qualidade; estourar a VRAM causa travadas fortes.	It's this card's limit in new games. Keep textures on Medium or High and use DLSS on Quality; going over the VRAM causes heavy stutters.
+É o visualizador de imagens padrão. Sem ele, as imagens abrem em outro programa.	It's the default image viewer. Without it, images open in another program.
+É só a vitrine. Word, Excel e os outros programas do Office instalados não são tocados.	It's just the storefront. Word, Excel and the other installed Office programs are not touched.
+É uma proteção do Windows que custa um pouco de desempenho, mas o Vanguard (Valorant e League of Legends) pode exigir que fique ligada. Desligar é opcional, no filtro Avançados da tela Otimizar.	It's a Windows protection that costs a little performance, but Vanguard (Valorant and League of Legends) may require it to stay on. Turning it off is optional, in the Advanced filter of the Optimize screen.
+Última medição: {0}, {1:N1} FPS de média e {2:N1} de 1% low ({3}, {4} ajustes ativos)	Last measurement: {0}, {1:N1} FPS average and {2:N1} 1% low ({3}, {4} active tweaks)
+Última verificação dos arquivos do Windows: íntegros.	Last Windows file check: intact.
+Última verificação: há arquivos corrompidos, e dá para reparar.	Last check: there are corrupted files, and they can be repaired.
+Última verificação: {0}.	Last check: {0}.
+★ Recomendado  ·  A remoção é definitiva: os apps não voltam sozinhos	★ Recommended  ·  Removal is permanent: the apps don't come back by themselves
+★ Recomendado  ·  Roda uma vez, ao clicar ou ao aplicar o perfil	★ Recommended  ·  Runs once, when clicked or when applying the profile
+1 recomendado ainda desligado	1 recommended still off
+Alto	High
+Alto desempenho.	High performance.
+Aplicar	Apply
+Baixo	Low
+Cancelar	Cancel
+Fechar	Close
+Modo administrador	Administrator mode
+Modo partida	Play mode
+Modo partida desligado	Play mode off
+Modo partida ligado	Play mode on
+Modo partida ligado. {0} programas fechados.	Play mode on. {0} programs closed.
+Nada pesado aberto agora	Nothing heavy open right now
+Nenhum app marcado.	No app selected.
+Ok	OK
+Outlook (novo)	Outlook (new)
+Resizable BAR: ligado	Resizable BAR: on
+Reverter tudo	Revert all
+desligada	off
+desligado	off
+ligada	on
+ligado	on
+tela azul	blue screen
+{0:N0} horas ligado	{0:N0} hours powered on
+{0} Modo partida desligado, {1} programas reabertos.	{0} Play mode off, {1} programs reopened.
+{0} recomendados ainda desligados	{0} recommended still off
+{0} °C agora	{0} °C now
+Se aparecer a opção de chaves, escolha instalar as chaves de fábrica.	If a key option appears, choose to install the factory default keys.
+Só funciona depois de sair do modo Legacy (item acima).	It only works after leaving Legacy mode (item above).
+Vale depois de reiniciar o PC.	Takes effect after restarting the PC.
+a {0} MHz	at {0} MHz
+de {0}	from {0}
+depois de {0} ciclos de carga	after {0} charge cycles
+e	and
+e copiado: cole no Discord com Ctrl+V	and copied: paste it on Discord with Ctrl+V
+e desliga {0} que não fazem parte dele	and turns off {0} that are not part of it
+{0} de RAM liberados.	{0} of RAM freed.
+{0} apps removidos	{0} apps removed
+{0} liberados	{0} freed
+{0} itens apagados	{0} items deleted
+    {0}: valor apagado	    {0}: value deleted
+O primeiro upgrade deste PC: {0}.	This PC's first upgrade: {0}.
+Desligado neste PC: {0}	Off on this PC: {0}
+{0}: quente ({1} °C)	{0}: hot ({1} °C)
+Algo falhou: {0}	Something failed: {0}
+Ligado: {0}.{1}	On: {0}.{1}
+Desligado: {0}. O valor original foi devolvido.	Off: {0}. The original value was restored.
+Medindo: faltam {0} s. Jogue normalmente.	Measuring: {0} s left. Play normally.
+Jogo reconhecido: {0}, {1}.{2}	Game detected: {0}, {1}.{2}
+{0} pentes	{0} sticks
+Unidade {0}	Drive {0}
+processos	processes
+corrigidos	corrected
+erro fatal	fatal error
+erros fatais	fatal errors
+telas azuis	blue screens
+Lista atualizada.	List updated.
+Atualizar	Refresh
+Ligado	On
+Desligado	Off
+Impacto alto	High impact
+Impacto baixo	Low impact
+Outra marca escolhida	Other brand selected
+Pede Windows 11 23H2	Needs Windows 11 23H2
+App patrocinado.	Sponsored app.
+Armazenamento	Storage
+Bateria	Battery
+Calculadora	Calculator
+Clima	Weather
+Competitivo	Competitive
+Desligamentos	Shutdowns
+Dicas	Tips
+Disco	Drive
+Equilibrado	Balanced
+Fotos	Photos
+Jogo patrocinado.	Sponsored game.
+Mapas	Maps
+Menus sem atraso	Menus without delay
+Muito alta	Very high
+Notas Autoadesivas	Sticky Notes
+Obter Ajuda	Get Help
+Otimizar	Optimize
+Processador	CPU
+Sistema	System
+Suporte remoto entre dois PCs.	Remote support between two PCs.
+Telas azuis	Blue screens
+Travamentos	Crashes
+Vincular ao Celular	Phone Link
+Agora	Now
+ANTES	BEFORE
+DEPOIS	AFTER
+Consumo	Power
+JOGO	GAME
+Minimizar	Minimize
+Placa	GPU
+Temperatura	Temperature
+Uso	Usage
+Ventoinha	Fan
+Exportar .reg	Export .reg
+App Xbox	Xbox app
+Notebook	Laptop
+{0}\nIgual ao da página de Releases = arquivo original, sem alteração.	{0}\nSame as on the Releases page = original, unmodified file.
+Conferir o arquivo (SHA-256)	Verify the file (SHA-256)
+A leitura completa do SMART só funciona no Harle.exe. Fica só o que o Windows informa.	Full SMART reading only works in Harle.exe. Only what Windows reports is shown.
+Altura de voo das cabeças	Head flying height
+Apagamentos de blocos	Block erase count
+Apagamentos máximos	Maximum erase count
+Apagamentos médios	Average erase count
+Apagamentos mínimos	Minimum erase count
+Apagamentos totais	Total erase count
+Atrito de carga	Load friction
+Atual e pior vão de 100 (ou 200, ou 253) para baixo; quando o atual chega no limite, o fabricante considera o disco em falha. Bruto é o contador de verdade, e o significado de alguns muda de fabricante para fabricante.	Current and worst go down from 100 (or 200, or 253); when current reaches the threshold, the manufacturer considers the drive failing. Raw is the actual counter, and the meaning of some varies by manufacturer.
+Aviso crítico	Critical warning
+Blocos com defeito de fábrica	Factory bad blocks
+Blocos reserva válidos	Valid spare blocks
+Blocos reserva	Spare blocks
+Blocos reserva usados	Used reserved blocks
+Blocos reserva livres	Unused reserved blocks
+Bons blocos e reserva	Good blocks and spare
+Ciclos de carga das cabeças	Head load cycles
+Comandos de escrita	Host write commands
+Comandos de leitura	Host read commands
+Contagem de desgaste	Wear leveling count
+Desempenho de leitura	Throughput performance
+Desempenho de posicionamento	Seek time performance
+Desgaste do meio	Media wearout indicator
+Desgaste médio	Average wear
+Desligamentos de emergência	Emergency retracts
+Desligamentos inesperados	Unexpected power losses
+Desligamentos inseguros	Unsafe shutdowns
+Deslocamento do disco	Disk shift
+Discos USB normalmente não deixam ler o SMART pelo adaptador. Fica só o que o Windows informa.	USB drives usually don't allow reading SMART through the adapter. Only what Windows reports is shown.
+ECC corrigido por software	Soft ECC correction
+ECC recuperado por hardware	Hardware ECC recovered
+Entradas no log de erros	Error log entries
+Erros da interface SATA	SATA interface errors
+Erros de CRC (cabo SATA)	CRC errors (SATA cable)
+Erros de CRC ({0}) vêm do cabo SATA ou da porta, não do disco. Se o número subir, troque o cabo ou a porta.	CRC errors ({0}) come from the SATA cable or port, not the drive. If the number goes up, replace the cable or port.
+Erros de leitura (software)	Soft read errors
+Erros de mídia e integridade	Media and data integrity errors
+Erros de ponta a ponta	End-to-end errors
+Erros de posicionamento	Seek error rate
+Erros não corrigidos informados	Reported uncorrectable errors
+Específico do fabricante	Vendor specific
+Estado de saúde	Health status
+Está a {0} °C. Acima de {1} °C o disco começa a reduzir a velocidade para se proteger e se desgasta mais.	It's at {0} °C. Above {1} °C the drive starts slowing down to protect itself and wears faster.
+Eventos de realocação	Reallocation events
+Falhas de apagamento	Erase failures
+Falhas de apagamento (pior bloco)	Erase failures (worst block)
+Falhas de programação	Program failures
+Falhas de programação (pior bloco)	Program failures (worst block)
+Gravações do computador	Host writes
+Gravações em altura alta	High fly writes
+Gravações na NAND (GB)	NAND writes (GB)
+Horas de voo das cabeças	Head flying hours
+Horas ligado	Power-on hours
+Há {0} setores realocados, pendentes ou irrecuperáveis. Um número que para de subir costuma ser tolerável; se aumentar de uma semana para outra, o disco está se degradando. Faça backup.	There are {0} reallocated, pending or uncorrectable sectors. A number that stops growing is usually tolerable; if it goes up week after week, the drive is degrading. Back up your data.
+Impactos (sensor de queda)	G-sense error rate
+Leitura concluída: {0}.	Reading finished: {0}.
+Lendo o S.M.A.R.T. dos discos...	Reading the drives' S.M.A.R.T....
+Ler de novo	Read again
+Limite da reserva	Available spare threshold
+Médias de apagamento	Average erase count
+Nenhum disco encontrado	No drive found
+Novas tentativas de calibração	Calibration retry count
+Novas tentativas de girar	Spin retry count
+Novas tentativas de leitura	Read retry count
+Número de série	Serial number
+O SSD avisou que passou do limite de temperatura. Um dissipador no M.2 ou mais ventilação no gabinete resolve.	The SSD reported going over its temperature limit. An M.2 heatsink or more case airflow solves it.
+O SSD registrou {0} erros de mídia (dados que ele não conseguiu ler ou gravar direito). Faça backup do que é importante.	The SSD recorded {0} media errors (data it couldn't read or write properly). Back up what matters.
+O Windows não informou nenhum disco. Clique em Ler de novo.	Windows didn't report any drive. Click Read again.
+O controlador deste disco não deixou ler o SMART (comum em RAID e em alguns drivers de fabricante). Fica só o que o Windows informa.	This drive's controller didn't allow reading SMART (common with RAID and some vendor drivers). Only what Windows reports is shown.
+O próprio SSD está avisando que algo está errado (reserva acabando, confiabilidade reduzida ou modo só leitura). Faça backup agora e planeje a troca.	The SSD itself is warning that something is wrong (spare running out, reduced reliability or read-only mode). Back up now and plan a replacement.
+O registro de saúde que o próprio SSD mantém. Dados lidos e escritos já estão convertidos.	The health log kept by the SSD itself. Data read and written are already converted.
+Partidas e paradas	Start/stop count
+Pelo menos um atributo passou do limite de falha que o próprio fabricante definiu. O disco pode parar a qualquer momento: faça backup agora.	At least one attribute crossed the failure threshold set by the manufacturer. The drive may stop at any moment: back up now.
+Proteção contra queda livre	Free fall protection
+Páginas escritas pela FTL	FTL program pages
+Páginas escritas pelo computador	Host program pages
+Quedas de velocidade SATA	SATA downshift count
+Reserva disponível	Available spare
+Resta {0}% da vida útil de gravação prevista pelo fabricante. O SSD não para nesse ponto, mas é hora de planejar a troca e manter backup.	{0}% of the write endurance rated by the manufacturer is left. The SSD doesn't stop at that point, but it's time to plan a replacement and keep backups.
+Saúde do meio	Media health
+Saúde, temperatura e atributos S.M.A.R.T. de cada disco, como no CrystalDiskInfo. Só leitura: nada é alterado.	Health, temperature and S.M.A.R.T. attributes of each drive, like CrystalDiskInfo. Read-only: nothing is changed.
+Setores irrecuperáveis	Uncorrectable sectors
+Setores realocados	Reallocated sectors
+Setores pendentes	Pending sectors
+Taxa de erros de gravação	Write error rate
+Taxa de erros de leitura	Read error rate
+Temperatura do fluxo de ar	Airflow temperature
+Tempo de carga	Load-in time
+Tempo para girar	Spin-up time
+Tentativas de carga	Load retry count
+Tudo normal. O SSD já gastou {0}% da vida útil de gravação prevista; no uso de jogos isso costuma durar muitos anos.	All normal. The SSD has used {0}% of its rated write endurance; with gaming use that usually lasts many years.
+Tudo normal: nenhum setor com defeito e nenhum atributo perto do limite.	All normal: no bad sectors and no attribute near the threshold.
+Vezes ligado	Power-on count
+{0:N0} horas ({1:N0} dias)	{0:N0} hours ({1:N0} days)
+{0:N0} vezes	{0:N0} times
+Discos	Drives
+disco	drive
+discos	drives
+Disco {0}	Drive {0}
+Bom	Good
+Ruim	Bad
+Desconhecido	Unknown
+Letras	Letters
+nenhuma	none
+Tipo	Type
+Total lido	Total read
+Total escrito	Total written
+Total escrito (alto)	Total written (high)
+Total lido (alto)	Total read (high)
+Atributo	Attribute
+Atual	Current
+Pior	Worst
+Limite	Threshold
+Bruto	Raw
+Valor	Value
+Atributos S.M.A.R.T.	S.M.A.R.T. attributes
+Vida restante	Life remaining
+Vida usada	Percentage used
+Dados lidos	Data units read
+Dados escritos	Data units written
+Tempo ocupado (minutos)	Controller busy time (minutes)
+HD	HDD
+, {0} RPM	, {0} RPM
+A tela de bloqueio fica só com a imagem e o relógio, sem os textos de curiosidades, dicas e propagandas por cima.	The lock screen keeps just the picture and the clock, without the fun facts, tips and ads on top.
+Cortana, Notícias e Interesses, Reunir Agora, barra de Pessoas, anúncios do menu Iniciar, pesquisa da web no Iniciar, dicas da tela de bloqueio e a tela "Vamos terminar de configurar".	Cortana, News and Interests, Meet Now, People bar, Start menu ads, web search in Start, lock screen tips and the "Let's finish setting up" screen.
+Debloat completo já aplicado	Full debloat already applied
+Debloat do {0}	{0} debloat
+Debloat do {0} concluído: {1} de {2} itens ligados.	{0} debloat finished: {1} of {2} items on.
+Desliga a Cortana por política e tira o botão dela da barra de tarefas. A pesquisa do menu Iniciar continua funcionando.	Turns off Cortana by policy and removes her button from the taskbar. Start menu search keeps working.
+Desligar a Cortana	Turn off Cortana
+Escolher os apps	Choose the apps
+Fazer o debloat	Debloat
+Fazer o debloat completo	Run the full debloat
+Microsoft Store, Xbox e Game Bar (os jogos precisam deles), Windows Update, Defender e drivers não são tocados. Os ajustes opcionais, como indexação e apps em segundo plano, ficam de fora.	Microsoft Store, Xbox and Game Bar (games need them), Windows Update, Defender and drivers are not touched. Optional tweaks, like indexing and background apps, are left out.
+O Windows deixa de abrir notificações pedindo nota e comentários sobre ele.	Windows stops showing notifications asking for ratings and feedback.
+O botão do Chat do Teams gratuito some da barra de tarefas. O Teams do trabalho ou da escola não é afetado.	The free Teams Chat button disappears from the taskbar. Teams for work or school is not affected.
+O que fica	What stays
+Para a tela cheia que aparece depois de algumas atualizações oferecendo conta Microsoft, OneDrive, Microsoft 365 e Game Pass.	Stops the full-screen page that shows up after some updates offering a Microsoft account, OneDrive, Microsoft 365 and Game Pass.
+Parar os pedidos de avaliação do Windows	Stop Windows feedback requests
+Remover o Recall e o Click to Do	Remove Recall and Click to Do
+Some da barra e do menu Iniciar	Gone from the taskbar and Start menu
+Some o lembrete do menu Iniciar para entrar com conta Microsoft, fazer backup no OneDrive ou assinar o Microsoft 365.	Removes the Start menu reminders to sign in with a Microsoft account, back up to OneDrive or subscribe to Microsoft 365.
+Some o ícone de câmera do Skype (Reunir Agora) do canto da barra de tarefas e o botão de Pessoas.	Removes the Skype camera icon (Meet Now) from the taskbar corner and the People button.
+Só no Windows 10	Windows 10 only
+Tira o Recall (que fotografa a tela o tempo todo para busca) e o Click to Do por política do Windows. Só existem nos PCs Copilot+; nos outros não muda nada.	Removes Recall (which keeps taking screenshots for search) and Click to Do through Windows policy. They only exist on Copilot+ PCs; on others nothing changes.
+Tirar dicas e curiosidades da tela de bloqueio	Remove tips and fun facts from the lock screen
+Tirar o "Vamos terminar de configurar" depois das atualizações	Remove "Let's finish setting up" after updates
+Tirar o Reunir Agora e a barra de Pessoas	Remove Meet Now and the People bar
+Tirar o botão do Chat (Teams) da barra de tarefas	Remove the Chat (Teams) button from the taskbar
+Tirar os avisos de conta do menu Iniciar	Remove account notifications from the Start menu
+Um clique liga os {0} itens recomendados de Debloat e Privacidade feitos para esta versão do Windows e remove os apps marcados na tela Apps. Os opcionais ficam de fora. Some: {1} A Microsoft Store, o Xbox, a Game Bar, o Windows Update e o Defender continuam.	One click turns on the {0} recommended Debloat and Privacy items made for this Windows version and removes the apps checked on the Apps screen. Optional ones are left out. Gone: {1} Microsoft Store, Xbox, Game Bar, Windows Update and Defender stay.
+Widgets, Copilot, Recall, botão do Chat, avisos de conta e anúncios do menu Iniciar, pesquisa da web no Iniciar, dicas da tela de bloqueio e a tela "Vamos terminar de configurar".	Widgets, Copilot, Recall, Chat button, Start menu account notifications and ads, web search in Start, lock screen tips and the "Let's finish setting up" screen.
+{0} de {1} já ligados neste PC.	{0} of {1} already on in this PC.
+{0} detectado. O debloat liga {1} itens que ainda estão desligados ({2} de {3} já estavam) e remove os apps marcados na tela Apps. O que você mais vai notar:	{0} detected. The debloat turns on {1} items that are still off ({2} of {3} already were) and removes the apps checked on the Apps screen. What you'll notice most:
+Pede Windows 11 24H2	Needs Windows 11 24H2
+Desliga só o "Gravar o que aconteceu" da Xbox Game Bar, que fica gravando os últimos minutos o tempo todo e ocupa GPU e disco. A Game Bar continua inteira: Win + G, capturas de tela e gravações quando você pedir.	Turns off only the Xbox Game Bar "Record what happened", which keeps recording the last minutes all the time and uses GPU and disk. Game Bar stays fully working: Win + G, screenshots and recordings when you ask.
+(o atual)	(current)
+A atualização parou: {0}	Update stopped: {0}
+A lista de apps a remover também é copiada, mas nenhum app sai agora. Eles só saem quando você clicar em Remover os marcados, na tela Apps.	The list of apps to remove is copied too, but no app is removed now. They're only removed when you click Remove selected on the Apps screen.
+A variação está alta, o que causa "teleportes" no jogo. Quase sempre é Wi-Fi ou alguém usando muito a internet ao mesmo tempo.	Jitter is high, which causes "teleporting" in games. It's almost always Wi-Fi or someone else using a lot of bandwidth at the same time.
+Abra este teste com seus programas de sempre abertos para ver o que entra junto com o jogo.	Run this check with your usual programs open to see what runs along with the game.
+Adrenalin, Configurações, Preferências: desligue a sobreposição no jogo, se não usa as métricas nem a gravação.	Adrenalin, Settings, Preferences: turn off the in-game overlay if you don't use metrics or recording.
+Aplica a configuração de um arquivo salvo pelo Harle	Applies the configuration from a file saved by Harle
+Atualizar para a {0}	Update to {0}
+Baixando a versão {0} e conferindo o SHA-256...	Downloading version {0} and checking the SHA-256...
+Carregar configuração	Load configuration
+Carregar uma configuração do Harle	Load a Harle configuration
+Comparando os DNS. Leva uns 15 segundos...	Comparing DNS servers. Takes about 15 seconds...
+Conexão boa para jogar: ping baixo, estável e sem perda.	Good connection for gaming: low, stable ping with no loss.
+Configuração carregada: {0} ajustes ligados e {1} desligados.	Configuration loaded: {0} tweaks turned on and {1} turned off.
+Configuração do Harle	Harle configuration
+Configuração salva em {0} no {1}, com o Harle {2}. Ela liga {3} ajustes e desliga {4}. O que você mais vai notar:	Configuration saved on {0} on {1}, with Harle {2}. It turns on {3} tweaks and turns off {4}. What you'll notice most:
+Configuração salva em {0}: {1} ajustes ligados e os apps marcados. Mande o arquivo para quem quiser usar a mesma.	Configuration saved to {0}: {1} tweaks on and the selected apps. Send the file to anyone who wants to use the same.
+Configurações do usuário, Overlay do jogo: desligue "Ativar overlay no jogo". O chat de voz continua funcionando.	User Settings, Game Overlay: turn off "Enable in-game overlay". Voice chat keeps working.
+Configurações, Geral: desligue "Sobreposição no jogo", se não usa gravação nem filtros.	Settings, General: turn off "In-game overlay" if you don't use recording or filters.
+Counter-Strike 2, Dota 2 e Deadlock passam pelos retransmissores da Valve em São Paulo.	Counter-Strike 2, Dota 2 and Deadlock go through Valve's relays in São Paulo.
+DNS mais rápido	Fastest DNS
+DNS original de volta.	Original DNS restored.
+DNS original de volta. Não havia ajustes ativos para reverter.	Original DNS restored. There were no active tweaks to revert.
+DNS trocado para {0}. Para desfazer, use Voltar ao DNS original.	DNS changed to {0}. To undo, use Restore original DNS.
+Desenha o contador do MSI Afterburner em cima do jogo e fica injetado em todos os jogos. Feche se não usa o contador.	Draws the MSI Afterburner counter on top of the game and stays injected into every game. Close it if you don't use the counter.
+Desliga e devolve o valor original	Turns off and restores the original value
+Dá para baixar pela página da versão nova.	You can download it from the new version's page.
+Esse destino não respondeu agora. Pode ser bloqueio da rede ou do provedor; não quer dizer que o jogo está fora do ar.	This destination didn't respond now. It may be blocked by the network or ISP; it doesn't mean the game is down.
+Este arquivo não é uma configuração do Harle.	This file is not a Harle configuration.
+Fechar agora	Close now
+Fica de fora	Left out
+Fortnite e muitos outros jogos online usam os servidores da AWS em São Paulo.	Fortnite and many other online games use AWS servers in São Paulo.
+Grava clipes o tempo todo em segundo plano, como o "Gravar o que aconteceu".	Records clips all the time in the background, like "Record what happened".
+Houve perda de pacotes. No Wi-Fi isso é comum: teste com cabo. Se continuar no cabo, reinicie o roteador e, se não resolver, fale com o provedor.	There was packet loss. It's common on Wi-Fi: test with a cable. If it continues on cable, restart the router and, if that doesn't fix it, contact your ISP.
+Lista de overlays atualizada.	Overlay list updated.
+Mede a latência, a variação (jitter) e a perda de pacotes até os data centers de São Paulo onde os jogos rodam. Os jogos não divulgam o endereço exato dos servidores, então o número é uma estimativa muito próxima do ping dentro do jogo. Faça o teste com o cabo de rede, se puder, e com downloads parados.	Measures latency, jitter and packet loss to the São Paulo data centers where games run. Games don't publish their exact server addresses, so the number is a close estimate of the in-game ping. Test on a network cable if you can, with downloads paused.
+Mede a qualidade da sua conexão até a internet: se aqui já está alto ou com perda, o problema é a sua rede ou o provedor.	Measures your connection quality to the internet: if it's already high or losing packets here, the problem is your network or ISP.
+Medindo o ping até os data centers de São Paulo. Leva uns 20 segundos...	Measuring ping to the São Paulo data centers. Takes about 20 seconds...
+Mínimo {0} ms, máximo {1} ms, variação {2} ms, perda {3}%.	Min {0} ms, max {1} ms, jitter {2} ms, loss {3}%.
+Nenhum overlay conhecido aberto agora	No known overlay open right now
+No app da NVIDIA, Configurações, Recursos: desligue a sobreposição no jogo (Alt + Z), se não usa gravação nem filtros.	In the NVIDIA app, Settings, Features: turn off the in-game overlay (Alt + Z) if you don't use recording or filters.
+Não deu para ler o arquivo: ele não é um JSON válido.	Couldn't read the file: it's not valid JSON.
+O DNS transforma nomes como riotgames.com em endereços. Ele não muda o ping dentro da partida, mas um DNS rápido faz sites, launchers e o login dos jogos abrirem mais depressa.	DNS turns names like riotgames.com into addresses. It doesn't change in-match ping, but a fast DNS makes websites, launchers and game logins open faster.
+O arquivo é grande demais para ser uma configuração do Harle.	The file is too big to be a Harle configuration.
+O mais rápido nesta conexão.	The fastest on this connection.
+O ping está alto mesmo sem perda. Normalmente é a distância até São Paulo ou a rota do provedor; dá para comparar em outro horário.	Ping is high even without loss. It's usually the distance to São Paulo or your ISP's route; compare at another time of day.
+Otimizador e overlay da Razer. Rodar dois otimizadores juntos atrapalha mais do que ajuda.	Razer's optimizer and overlay. Running two optimizers together hurts more than it helps.
+Overlay da NVIDIA	NVIDIA overlay
+Overlays abertos agora	Overlays open right now
+Ping até os servidores	Ping to the servers
+Ping e estabilidade até os data centers dos jogos, DNS mais rápido e overlays que pesam no jogo.	Ping and stability to game data centers, fastest DNS and overlays that weigh on games.
+Plataforma de overlays (Outplayed, apps de estatística). Pesa bastante em PCs de entrada.	Overlay platform (Outplayed, stats apps). Heavy on entry-level PCs.
+Programas que desenham por cima do jogo (contador de FPS, chat, gravação). Cada um injeta código no jogo e pode custar FPS ou causar travadas. A Xbox Game Bar não entra na lista.	Programs that draw on top of the game (FPS counter, chat, recording). Each one injects code into the game and can cost FPS or cause stutters. Xbox Game Bar is not on the list.
+Salva perfil, ajustes e apps marcados num arquivo para compartilhar	Saves profile, tweaks and selected apps to a file to share
+Salvar a configuração do Harle	Save the Harle configuration
+Salvar config	Save config
+Carregar config	Load config
+Se não usa overclock nem o contador na tela, pode fechar e tirar da inicialização.	If you don't use overclocking or the on-screen counter, you can close it and remove it from startup.
+Steam, Configurações, Durante o jogo: desmarque "Ativar o Steam Overlay durante o jogo".	Steam, Settings, In Game: uncheck "Enable the Steam Overlay while in-game".
+Testar de novo	Test again
+Testar o ping	Test ping
+Testar os DNS	Test DNS
+Teste de DNS concluído.	DNS test finished.
+Teste de ping concluído.	Ping test finished.
+Usar o {0}	Use {0}
+Versão {0} instalada e conferida. Reabrindo o Harle...	Version {0} installed and verified. Reopening Harle...
+Voltar ao DNS original	Restore original DNS
+a Release não tem um SHA-256 válido. Nada foi trocado.	the Release has no valid SHA-256. Nothing was replaced.
+não deu para baixar (sem internet ou o GitHub não respondeu). Nada foi trocado.	couldn't download (no internet or GitHub didn't respond). Nothing was replaced.
+o arquivo baixado não bate com o SHA-256 publicado. Nada foi trocado.	the downloaded file doesn't match the published SHA-256. Nothing was replaced.
+o arquivo baixado não é da versão anunciada. Nada foi trocado.	the downloaded file is not the announced version. Nothing was replaced.
+{0} ajustes do arquivo não existem neste PC (outra versão do Windows ou outra marca de placa de vídeo).	{0} tweaks from the file don't exist on this PC (another Windows version or graphics card brand).
+{0} {1} de {2}: {3}...	{0} {1} of {2}: {3}...
+{0}: não respondeu	{0}: didn't respond
+{0}: sem resposta	{0}: no response
+{0}: {1} ms	{0}: {1} ms
+{0} consultas falharam.	{0} queries failed.
+{0} fechado.	{0} closed.
+Atual ({0})	Current ({0})
+Ligando	Turning on
+Desligando	Turning off
+Liga	Turns on
+Apps marcados	Selected apps
+Online	Online
+AWS São Paulo	AWS São Paulo
+Valve São Paulo	Valve São Paulo
+Internet (Cloudflare)	Internet (Cloudflare)
+Código aberto	Open source
+Licença GPL-3.0. O código e a compilação de cada versão ficam em github.com/Harlezinhuu/HarleOptimizer.	GPL-3.0 license. The code and the build of each version are at github.com/Harlezinhuu/HarleOptimizer.
+Abertos agora (clique para adicionar):	Open right now (click to add):
+Adicione os jogos que você joga. Para cada um, dá para ligar o modo partida automático (o Harle precisa estar aberto, pode ficar minimizado), prioridade alta fixa pelo próprio Windows e a placa de vídeo dedicada. Tudo volta com Reverter tudo.	Add the games you play. For each one you can turn on automatic play mode (Harle must be open, it can stay minimized), a permanent high priority set by Windows itself, and the dedicated graphics card. Everything comes back with Revert all.
+Ajustes por jogo: modo partida automático, prioridade alta e placa de vídeo dedicada.	Per-game tweaks: automatic play mode, high priority and dedicated graphics card.
+Escolha o .exe do jogo	Choose the game's .exe
+Esse jogo já está na lista.	That game is already on the list.
+FPS médio	Average FPS
+Jogo tirado da lista; os ajustes dele foram desfeitos.	Game removed from the list; its tweaks were undone.
+Linha azul: FPS médio. Linha verde: 1% low. Da primeira para a última medição: {0:+0.0;-0.0;0.0}% no FPS médio. Passe o mouse nos pontos para ver os detalhes.	Blue line: average FPS. Green line: 1% low. From the first to the last measurement: {0:+0.0;-0.0;0.0}% in average FPS. Hover over the points for details.
+Modo partida automático	Automatic play mode
+Nenhum jogo na lista	No games on the list
+O próprio Windows abre o jogo sempre com prioridade alta de processador, mesmo com o Harle fechado. Se o anti-cheat do jogo reclamar, desligue.	Windows itself always starts the game with high CPU priority, even with Harle closed. If the game's anti-cheat complains, turn it off.
+Obriga o jogo a usar a placa de vídeo dedicada. Só muda algo em PCs com duas placas, como notebooks com vídeo integrado; em PCs com uma placa, não faz diferença.	Forces the game to use the dedicated graphics card. It only matters on PCs with two GPUs, like laptops with integrated graphics; on PCs with one card, it makes no difference.
+Placa de vídeo dedicada	Dedicated graphics card
+Procurar o .exe do jogo	Browse for the game's .exe
+Quando o jogo abre, o Harle fecha o que está marcado no modo partida e dá prioridade alta ao jogo. Quando o jogo fecha, tudo volta.	When the game opens, Harle closes what's checked in play mode and gives the game high priority. When the game closes, everything comes back.
+Tirar da lista	Remove from list
+{0} aberto: modo partida ligado sozinho.	{0} opened: play mode turned on automatically.
+{0} adicionado à lista.	{0} added to the list.
+{0} ajustes ativos	{0} active tweaks
+{0}: desligado.	{0}: off.
+{0}: ligado.	{0}: on.
+Abra o jogo e volte aqui para adicioná-lo com um clique, ou procure o .exe dele. Jogos da Steam ficam em Steam\steamapps\common; os da Epic, em Epic Games.	Open the game and come back here to add it with one click, or browse for its .exe. Steam games are in Steam\steamapps\common; Epic ones in Epic Games.
+Seus jogos	Your games
+Jogos	Games
+Prioridade alta	High priority
+Programas	Programs
+1% low	1% low
+Aplicar o que está marcado	Apply what's checked
+Apps pré-instalados	Preinstalled apps
+Debloat do {0} concluído: {1} itens tirados e {2} devolvidos ao original.	{0} debloat finished: {1} items removed and {2} restored to the original.
+Escolha o que sai do Windows: chave ligada tira o item, chave desligada deixa como o Windows vem. Só aparece o que existe nesta versão do Windows. Nada muda até você clicar em Aplicar, e tudo volta com Reverter tudo (menos os apps removidos). A Microsoft Store, o Xbox, a Game Bar, o Windows Update e o Defender nunca são tocados.	Choose what leaves Windows: switch on removes the item, switch off keeps it the way Windows ships. Only what exists in this Windows version is shown. Nothing changes until you click Apply, and everything comes back with Revert all (except removed apps). Microsoft Store, Xbox, Game Bar, Windows Update and Defender are never touched.
+Escolher os apps um por um	Choose the apps one by one
+Marcar os recomendados	Check the recommended
+Desmarcar tudo	Uncheck all
+Nada a mudar: o Windows já está como as chaves marcadas.	Nothing to change: Windows already matches the switches.
+Nenhum app marcado na tela Apps.	No app checked on the Apps screen.
+Não voltam sozinhos.	They don't come back by themselves.
+Remover apps pré-instalados	Remove preinstalled apps
+Saem os marcados na tela Apps ({0}): {1}.	The ones checked on the Apps screen are removed ({0}): {1}.
+Sai do Windows ({0})	Removed from Windows ({0})
+Volta ao original ({0})	Back to the original ({0})
+Apps removidos ({0})	Removed apps ({0})
+Windows, barra de tarefas e menu Iniciar	Windows, taskbar and Start menu
+já tirado	already removed
+opcional	optional
+{0} apps para remover	{0} apps to remove
+{0} detectado. Só o que você marcou muda:	{0} detected. Only what you checked changes:
+{0} para devolver ao original	{0} to restore to the original
+{0} para tirar	{0} to remove
+Ao aplicar: {0}.	When applied: {0}.
+A leitura e a limpeza da memória só funcionam no Harle.exe.	Memory reading and cleaning only work in Harle.exe.
+A limpeza de memória só funciona no Harle.exe.	Memory cleaning only works in Harle.exe.
+A memória "em espera" é o cache do Windows: ela já está disponível para os programas e é usada para abrir as coisas mais rápido. Limpar a memória não aumenta o FPS sozinho; ajuda quando um jogo trava porque a memória livre de verdade acabou, o que é mais comum em PCs com 8 ou 16 GB.	"Standby" memory is the Windows cache: it's already available to programs and is used to open things faster. Cleaning memory doesn't raise FPS by itself; it helps when a game stutters because truly free memory ran out, which is more common on PCs with 8 or 16 GB.
+Escolha o que limpar. Nenhum arquivo é apagado e nenhum programa é fechado.	Choose what to clean. No file is deleted and no program is closed.
+Grava no disco o que estava esperando para ser gravado e libera essa memória.	Writes to disk what was waiting to be written and frees that memory.
+Libera o cache do Windows. É o que mais devolve memória livre; o Windows volta a encher o cache aos poucos.	Frees the Windows cache. It's what returns the most free memory; Windows refills the cache gradually.
+Ligar a limpeza automática	Turn on automatic cleaning
+Limpa só enquanto você estiver jogando com o modo partida ligado.	Only cleans while you're playing with play mode on.
+Limpando a memória...	Cleaning memory...
+Limpar a memória	Clean memory
+Limpar a memória agora	Clean memory now
+Limpar quando a memória livre cair abaixo de:	Clean when free memory drops below:
+Limpeza automática	Automatic cleaning
+Limpeza de RAM: cache do Windows, lista modificada e memória dos programas, na hora ou automática.	RAM cleaning: Windows cache, modified list and program memory, on demand or automatic.
+Limpezas automáticas desde que o Harle abriu: {0}, a última às {1}.	Automatic cleanings since Harle opened: {0}, the last one at {1}.
+Lista em espera (cache)	Standby list (cache)
+Marque pelo menos uma das opções de limpeza.	Check at least one cleaning option.
+Memória agora	Memory right now
+Memória dos programas abertos (working set)	Open programs' memory (working set)
+Memória limpa: {0} a mais de memória livre.	Memory cleaned: {0} more free memory.
+Nenhuma limpeza automática foi necessária até agora.	No automatic cleaning was needed so far.
+O Harle confere a memória a cada 5 segundos e limpa só o cache quando a memória livre cai abaixo do limite, com no máximo uma limpeza a cada 30 segundos. Funciona com o Harle aberto (pode ficar minimizado). Nunca mexe na memória dos programas abertos.	Harle checks memory every 5 seconds and cleans only the cache when free memory drops below the limit, at most once every 30 seconds. Works with Harle open (it can stay minimized). It never touches open programs' memory.
+O Windows recusou parte da limpeza: {0}	Windows refused part of the cleaning: {0}
+Sem leitura da memória.	No memory reading.
+Só a parte de baixa prioridade do cache	Only the low-priority part of the cache
+Só durante o modo partida	Only during play mode
+Tira da RAM a parte que os programas não estão usando agora. Libera muito, mas eles recarregam tudo depois, o que pode causar travadas. Deixe desligado se for jogar logo em seguida.	Removes from RAM the part programs aren't using right now. Frees a lot, but they reload everything afterwards, which can cause stutters. Keep it off if you're about to play.
+Total {0}. Disponível para os programas: {1} (livre + em espera).	Total {0}. Available to programs: {1} (free + standby).
+Versão mais leve: libera só o cache que o Windows considera menos importante. Vale quando a opção de cima está desligada.	Lighter version: frees only the cache Windows considers less important. Useful when the option above is off.
+Útil em jogos que travam depois de muito tempo abertos.	Useful for games that stutter after being open for a long time.
+Em uso	In use
+Modificada	Modified
+Em espera (cache)	Standby (cache)
+Livre	Free
+AMD Software: Adrenalin Edition (detecta a placa sozinho)	AMD Software: Adrenalin Edition (detects the card by itself)
+Abra a tela Scanner e volte aqui.	Open the Scanner screen and come back here.
+Abrindo a página oficial no navegador.	Opening the official page in the browser.
+Abrir a página oficial	Open the official page
+App da NVIDIA (baixa e atualiza o driver GeForce)	NVIDIA app (downloads and updates the GeForce driver)
+Assistente de Driver e Suporte da Intel	Intel Driver & Support Assistant
+Baixando e instalando {0} drivers. Pode levar alguns minutos; a janela continua respondendo.	Downloading and installing {0} drivers. It may take a few minutes; the window stays responsive.
+Busca concluída: {0} drivers disponíveis.	Search finished: {0} drivers available.
+Chipset Intel: vem pelo Windows Update; o Assistente da Intel confere se falta algo	Intel chipset: comes through Windows Update; the Intel Assistant checks if anything is missing
+Configurado errado: reinstale o driver.	Configured incorrectly: reinstall the driver.
+Criando um ponto de restauração do Windows antes de instalar...	Creating a Windows restore point before installing...
+Dispositivos com problema	Devices with problems
+Driver de chipset da AMD (Ryzen): melhora o agendamento dos núcleos e a energia	AMD chipset driver (Ryzen): improves core scheduling and power management
+Driver {0}, de {1} ({2} dias).	Driver {0}, from {1} ({2} days).
+Drivers oficiais, assinados pela Microsoft, do mesmo serviço que o Windows usa. A diferença é que você vê a lista e escolhe quais instalar e quando. Um ponto de restauração é criado antes. Os de placa de vídeo vêm desmarcados: o do site do fabricante, logo abaixo, é mais novo.	Official drivers, signed by Microsoft, from the same service Windows uses. The difference is you see the list and choose which to install and when. A restore point is created first. Graphics card drivers come unchecked: the one from the manufacturer's site, below, is newer.
+Drivers que faltam depois de formatar: Windows Update escolhendo um por um, dispositivos com problema e os sites oficiais de vídeo e chipset.	Drivers missing after a clean install: Windows Update picked one by one, devices with problems and the official graphics and chipset sites.
+Drivers: {0} instalados, {1} com falha.	Drivers: {0} installed, {1} failed.
+Estes drivers rendem mais FPS e estabilidade quando vêm direto do fabricante. O Harle abre a página oficial; nada é baixado de outro lugar.	These drivers give more FPS and stability when they come straight from the manufacturer. Harle opens the official page; nothing is downloaded from anywhere else.
+Está em dia.	It's up to date.
+Vale atualizar.	Worth updating.
+Instalar os marcados	Install selected
+Marque pelo menos um driver.	Check at least one driver.
+Nenhum dispositivo com problema	No devices with problems
+Nenhum driver pendente no Windows Update	No pending drivers on Windows Update
+Não está conectado agora.	Not connected right now.
+Não instalou. O motivo está no log.	Not installed. The reason is in the log.
+Instalado.	Installed.
+O Windows Update não respondeu	Windows Update didn't respond
+O Windows Update não respondeu: {0}	Windows Update didn't respond: {0}
+O Windows já tem tudo o que o Windows Update oferece para este PC.	Windows already has everything Windows Update offers for this PC.
+O Windows não conseguiu carregar o driver.	Windows couldn't load the driver.
+O Windows parou o dispositivo porque ele relatou um problema (driver ou hardware).	Windows stopped the device because it reported a problem (driver or hardware).
+O dispositivo não conseguiu iniciar: atualize ou reinstale o driver.	The device couldn't start: update or reinstall the driver.
+O driver está corrompido ou faltando.	The driver is corrupted or missing.
+O que aparece com aviso amarelo no Gerenciador de Dispositivos.	What shows a yellow warning in Device Manager.
+Placa de vídeo e chipset	Graphics card and chipset
+Precisa reinstalar o driver.	Needs the driver reinstalled.
+Problema com o código {0} no Gerenciador de Dispositivos.	Problem with code {0} in Device Manager.
+Procurando drivers no Windows Update. Pode levar de 1 a 3 minutos...	Searching for drivers on Windows Update. It may take 1 to 3 minutes...
+Procurar de novo	Search again
+Procurar drivers	Search for drivers
+Drivers pelo Windows Update	Drivers from Windows Update
+Reinicie o PC para terminar.	Restart the PC to finish.
+Se o Windows Update não tiver o driver de algum deles, baixe no site de suporte do fabricante da placa-mãe ou do notebook, procurando pelo modelo exato.	If Windows Update doesn't have the driver for any of them, download it from the motherboard or laptop manufacturer's support site, searching for the exact model.
+Sem driver instalado.	No driver installed.
+Sem leitura do hardware	No hardware reading
+Todos os dispositivos conectados têm driver e estão funcionando.	All connected devices have drivers and are working.
+placa de vídeo	graphics card
+Drivers	Drivers
+Drivers oficiais, assinados pela Microsoft, tirados do catálogo do Windows Update. Funciona mesmo com o Windows Update desligado: o Harle liga o serviço só durante a busca ou a instalação e desliga de novo no final, então nada fica pesando depois. Você vê a lista e escolhe quais instalar. Um ponto de restauração é criado antes. Os de placa de vídeo vêm desmarcados: o do site do fabricante, logo abaixo, é mais novo.	Official drivers, signed by Microsoft, taken from the Windows Update catalog. It works even with Windows Update turned off: Harle turns the service on only during the search or install and turns it off again at the end, so nothing keeps running afterwards. You see the list and choose which to install. A restore point is created first. Graphics card drivers come unchecked: the one from the manufacturer's site, below, is newer.
+O Windows Update deste PC estava desligado	Windows Update was turned off on this PC
+O Harle ligou o serviço só durante a busca e já desligou de novo. Na instalação acontece o mesmo; nada fica rodando depois.	Harle turned the service on only during the search and already turned it off again. The same happens during installation; nothing keeps running afterwards.
+O acesso ao Windows Update foi bloqueado por uma política neste PC (algum otimizador ou a empresa). O Harle não desfaz isso sozinho; use os sites oficiais logo abaixo.	Access to Windows Update was blocked by a policy on this PC (some optimizer or the company). Harle doesn't undo that by itself; use the official sites below.
+Este PC busca atualizações num servidor da empresa (WSUS), e não na Microsoft. Use os sites oficiais logo abaixo.	This PC gets updates from a company server (WSUS), not from Microsoft. Use the official sites below.
+Não deu para ligar o serviço do Windows Update; algum programa pode ter bloqueado ele. Use os sites oficiais logo abaixo.	Couldn't start the Windows Update service; some program may have blocked it. Use the official sites below.
+Sem conexão com os servidores da Microsoft. Confira a internet e tente de novo.	No connection to Microsoft's servers. Check the internet and try again.
+Windows Update sob controle (igual ao gpedit)	Windows Update under control (same as gpedit)
+Faz o mesmo que a política do gpedit "Configurar Atualizações Automáticas" em "Notificar para download e instalação": o Windows não baixa nem instala nada sozinho e não reinicia com você usando o PC. A Microsoft Store, o Xbox e o Defender continuam se atualizando normalmente, e as atualizações do Windows você instala quando quiser em Configurações, Windows Update. Também adia por um ano as atualizações de versão grandes. No Windows Home a Microsoft não garante que essas políticas sejam respeitadas; no Pro funciona igual ao gpedit.	Does the same as the gpedit policy "Configure Automatic Updates" set to "Notify for download and auto install": Windows doesn't download or install anything by itself and doesn't restart while you're using the PC. Microsoft Store, Xbox and Defender keep updating normally, and you install Windows updates whenever you want in Settings, Windows Update. It also delays big version upgrades by a year. On Windows Home Microsoft doesn't guarantee these policies are honored; on Pro it works the same as gpedit.
+Alguns launchers e ferramentas de mods recentes pedem.	Some recent launchers and modding tools need it.
+Antes de formatar	Before formatting
+Antes de formatar, salve no pendrive os drivers deste PC (inclusive o de rede), os runtimes e o próprio Harle. Depois de formatar, abra o Harle pelo pendrive e instale tudo sem precisar de internet. São os drivers exatos deste PC, então não tem risco de driver errado.	Before formatting, save this PC's drivers (including the network one), the runtimes and Harle itself to a USB drive. After formatting, open Harle from the USB drive and install everything without internet. They're this PC's exact drivers, so there's no risk of a wrong driver.
+As partes antigas do DirectX (d3dx9, XAudio2, XInput 1.3) que o Windows 10 e 11 não trazem. Resolve o erro "d3dx9_43.dll não encontrado".	The legacy DirectX parts (d3dx9, XAudio2, XInput 1.3) that Windows 10 and 11 don't include. Fixes the "d3dx9_43.dll not found" error.
+Conecte o pendrive com a pasta Harle-Kit, ou salve um kit agora se você ainda não formatou.	Plug in the USB drive with the Harle-Kit folder, or save a kit now if you haven't formatted yet.
+Depois de formatar	After formatting
+DirectX (junho de 2010)	DirectX (June 2010)
+Drivers do kit: {0} instalados, {1} com falha.	Kit drivers: {0} installed, {1} failed.
+Escolha a pasta Harle-Kit	Choose the Harle-Kit folder
+Escolha o pendrive ou outro disco para salvar o kit (não use o disco do Windows, ele é apagado ao formatar)	Choose the USB drive or another disk to save the kit (don't use the Windows disk, it's erased when formatting)
+Escolher a pasta do kit	Choose the kit folder
+Essa pasta fica no disco do Windows ({0}), que é apagado ao formatar. Escolha um pendrive ou outro disco.	That folder is on the Windows disk ({0}), which is erased when formatting. Choose a USB drive or another disk.
+Essa pasta não tem um kit do Harle (falta o kit.json).	That folder has no Harle kit (kit.json is missing).
+Instalando {0} drivers do kit...	Installing {0} drivers from the kit...
+Instalando {0} runtimes. Pode levar alguns minutos; a janela continua respondendo.	Installing {0} runtimes. It may take a few minutes; the window stays responsive.
+Instalar o driver de rede do kit	Install the network driver from the kit
+Instalar todos os drivers do kit	Install all drivers from the kit
+Jogos antigos (2008 a 2011). Só se algum jogo pedir.	Old games (2008 to 2011). Only if a game asks for it.
+Jogos bem antigos (2005 a 2008). Só se algum jogo pedir.	Very old games (2005 to 2008). Only if a game asks for it.
+Jogos de 2010 a 2013 em 32 bits.	32-bit games from 2010 to 2013.
+Jogos de 2010 a 2013.	Games from 2010 to 2013.
+Jogos de 2012 a 2014 em 32 bits.	32-bit games from 2012 to 2014.
+Jogos de 2012 a 2014.	Games from 2012 to 2014.
+Jogos de 2014 a 2017 em 32 bits.	32-bit games from 2014 to 2017.
+Jogos de 2014 a 2017.	Games from 2014 to 2017.
+Jogos e programas antigos pedem. Vem do próprio Windows e precisa de internet.	Old games and programs need it. It comes from Windows itself and needs internet.
+Jogos e programas de 32 bits também precisam dele, mesmo no Windows de 64 bits.	32-bit games and programs need it too, even on 64-bit Windows.
+Kit de formatação (pendrive)	Format kit (USB drive)
+Kit encontrado em {0}	Kit found at {0}
+Kit salvo em {0}: {1} drivers deste PC, {2} runtimes e o próprio Harle.exe.	Kit saved to {0}: {1} drivers from this PC, {2} runtimes and Harle.exe itself.
+Marque pelo menos um runtime.	Check at least one runtime.
+Nenhum kit encontrado	No kit found
+Nenhum kit encontrado. Conecte o pendrive com a pasta Harle-Kit.	No kit found. Plug in the USB drive with the Harle-Kit folder.
+Não instalou: {0}	Not installed: {0}
+O arquivo não tem a assinatura da Microsoft e não foi executado.	The file doesn't have Microsoft's signature and was not run.
+O kit não tem driver de rede: este PC usava os que já vêm no Windows.	The kit has no network driver: this PC used the ones built into Windows.
+O kit não tem drivers.	The kit has no drivers.
+O kit não terminou: {0}	The kit didn't finish: {0}
+O que a maioria dos jogos e launchers atuais usa.	What most current games and launchers use.
+Pacotes que os jogos precisam e que o Windows não traz depois de formatar (é o que o "AIO Runtimes" instala). O Harle usa só os instaladores oficiais da Microsoft e confere a assinatura digital de cada um antes de rodar. Se houver um kit no pendrive, instala de lá sem internet; senão, baixa direto da Microsoft.	Packages games need that Windows doesn't include after formatting (what "AIO Runtimes" installs). Harle only uses Microsoft's official installers and checks each one's digital signature before running it. If there's a kit on a USB drive, it installs from there without internet; otherwise it downloads straight from Microsoft.
+Para depois de formatar: kit no pendrive com os drivers deste PC, runtimes para jogos, drivers do Windows Update e os sites oficiais de vídeo e chipset.	For after formatting: a USB kit with this PC's drivers, game runtimes, Windows Update drivers and the official graphics and chipset sites.
+Runtimes para jogos	Game runtimes
+Runtimes: {0} instalados, {1} com falha.	Runtimes: {0} installed, {1} failed.
+Salvando os drivers deste PC e montando o kit. Pode levar alguns minutos...	Saving this PC's drivers and building the kit. It may take a few minutes...
+Salvar o kit com os runtimes (cerca de 150 MB)	Save the kit with runtimes (about 150 MB)
+Salvar só os drivers	Save drivers only
+Salvo em {0}, no PC {1} ({2}): {3} drivers e {4} runtimes.	Saved on {0}, on PC {1} ({2}): {3} drivers and {4} runtimes.
+já instalado	already installed
+Visual C++ 2015-2022 (64 bits)	Visual C++ 2015-2022 (64-bit)
+Visual C++ 2015-2022 (32 bits)	Visual C++ 2015-2022 (32-bit)
+Visual C++ 2013 (64 bits)	Visual C++ 2013 (64-bit)
+Visual C++ 2013 (32 bits)	Visual C++ 2013 (32-bit)
+Visual C++ 2012 (64 bits)	Visual C++ 2012 (64-bit)
+Visual C++ 2012 (32 bits)	Visual C++ 2012 (32-bit)
+Visual C++ 2010 (64 bits)	Visual C++ 2010 (64-bit)
+Visual C++ 2010 (32 bits)	Visual C++ 2010 (32-bit)
+Visual C++ 2008 (64 bits)	Visual C++ 2008 (64-bit)
+Visual C++ 2008 (32 bits)	Visual C++ 2008 (32-bit)
+Visual C++ 2005 (64 bits)	Visual C++ 2005 (64-bit)
+Visual C++ 2005 (32 bits)	Visual C++ 2005 (32-bit)
+Kit baixado do GitHub (Harle {0}): {1} runtimes oficiais da Microsoft, prontos para instalar sem internet.	Kit downloaded from GitHub (Harle {0}): {1} official Microsoft runtimes, ready to install without internet.
+Sem internet depois de formatar?	No internet after formatting?
+Use a internet do celular pelo cabo USB. O Windows 10 e 11 já trazem o driver para isso, então funciona mesmo sem o driver da placa de rede. Com a internet ligada, o Harle baixa os runtimes e o Windows Update da aba Drivers encontra o driver da placa de rede.	Use your phone's internet over the USB cable. Windows 10 and 11 already include the driver for that, so it works even without the network card driver. With internet on, Harle downloads the runtimes and the Windows Update section of the Drivers tab finds the network card driver.
+Android	Android
+iPhone	iPhone
+Ligue o celular no PC pelo cabo USB. No celular: Configurações, Conexões (ou Rede e internet), Roteador Wi-Fi e ancoragem, e ative Ancoragem USB. O PC conecta sozinho em alguns segundos.	Connect the phone to the PC with the USB cable. On the phone: Settings, Connections (or Network & internet), Hotspot & tethering, and turn on USB tethering. The PC connects by itself in a few seconds.
+O Windows não traz o driver do iPhone pelo cabo. Se o Wi-Fi do PC já funcionar, use o Acesso Pessoal pelo Wi-Fi; se não, passe o kit do GitHub (Harle-Kit.zip) do celular para o PC.	Windows doesn't include the iPhone driver for cable tethering. If the PC's Wi-Fi already works, use Personal Hotspot over Wi-Fi; if not, copy the GitHub kit (Harle-Kit.zip) from the phone to the PC.
+Antes de formatar, salve no pendrive os drivers deste PC (inclusive o de rede), os runtimes e o próprio Harle. Depois de formatar, abra o Harle pelo pendrive e instale tudo sem precisar de internet. São os drivers exatos deste PC, então não tem risco de driver errado. Já formatou sem salvar? Baixe o Harle-Kit.zip na página de versões do GitHub (dá para baixar no celular e passar para o PC): ele traz o Harle e os runtimes.	Before formatting, save this PC's drivers (including the network one), the runtimes and Harle itself to a USB drive. After formatting, open Harle from the USB drive and install everything without internet. They're this PC's exact drivers, so there's no risk of a wrong driver. Already formatted without saving? Download Harle-Kit.zip from the GitHub releases page (you can download it on your phone and copy it to the PC): it includes Harle and the runtimes.
+O 3DP Net também foi salvo.	3DP Net was saved too.
+O 3DP Net não baixou; dá para colocar o arquivo dele na pasta Rede do kit depois.	3DP Net didn't download; you can put its file in the kit's Rede folder later.
+Incluir os runtimes para jogos (cerca de 200 MB)	Include game runtimes (about 200 MB)
+Instaladores oficiais da Microsoft, para instalar sem internet depois.	Official Microsoft installers, to install without internet later.
+Incluir o 3DP Net (cerca de 200 MB)	Include 3DP Net (about 200 MB)
+Programa gratuito com drivers de rede para quase todas as placas. Serve até para outro PC. Baixado do site oficial (3dpchip.com).	Free program with network drivers for almost every card. It even works for another PC. Downloaded from the official site (3dpchip.com).
+Salvar o kit no pendrive	Save the kit to the USB drive
+Abrir o 3DP Net	Open 3DP Net
+Abrindo o 3DP Net. Ele descobre a placa de rede e instala o driver certo.	Opening 3DP Net. It detects the network card and installs the right driver.
+O 3DP Net não está no kit. Abrindo o site oficial para baixar.	3DP Net isn't in the kit. Opening the official site to download it.

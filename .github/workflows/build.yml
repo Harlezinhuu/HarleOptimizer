@@ -1,0 +1,186 @@
+# Compila o Harle.exe a partir deste repositório, publica o SHA-256 e, quando a SignPath estiver
+# configurada, assina o exe antes de anexar na Release.
+#
+# Como publicar uma versão:
+#   1. Escreva as novidades em releases/<versao>.md (ex.: releases/3.6.md).
+#   2. Crie a Release no GitHub com a tag da versão (ex.: 3.6), ou envie a tag pelo git.
+#   3. Este workflow compila, confere, assina (se configurado) e anexa Harle.exe e Harle.exe.sha256.
+name: Build
+
+on:
+  push:
+    branches: [main]
+    tags: ['[0-9]*', 'v[0-9]*']
+  release:
+    types: [published]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: build-${{ github.event.release.tag_name || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name || github.ref }}
+
+      - name: Compilar o Harle.exe
+        shell: pwsh
+        run: ./build/build.ps1 -Script Harle.ps1 -Out out/Harle.exe
+
+      - name: Conferir o exe
+        shell: pwsh
+        run: |
+          $bytes = [IO.File]::ReadAllBytes('out/Harle.exe')
+          $text  = [Text.Encoding]::Unicode.GetString($bytes)
+          # O Harle roda no PowerShell 5.1 do Windows: a referencia precisa ser a 3.0.0.0.
+          if ($text -notmatch 'System\.Management\.Automation, Version=3\.0\.0\.0') { throw 'Referencia ao PowerShell do Windows errada' }
+          $ver = (Select-String -Path Harle.ps1 -Pattern "^\`$script:AppVersion\s*=\s*'([^']+)'").Matches[0].Groups[1].Value
+          "Versao no Harle.ps1: $ver"
+          "SHA-256: $((Get-FileHash out/Harle.exe -Algorithm SHA256).Hash.ToLower())"
+
+      - name: Guardar o exe sem assinatura
+        id: upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: Harle-unsigned
+          path: out/Harle.exe
+          if-no-files-found: error
+
+      # Assinatura gratuita para projetos open source (signpath.org). Fica desligada ate existir a
+      # variavel SIGNPATH_ORGANIZATION_ID e o segredo SIGNPATH_API_TOKEN no repositorio. Veja SIGNING.md.
+      - name: Assinar com a SignPath
+        id: sign
+        if: ${{ vars.SIGNPATH_ORGANIZATION_ID != '' && (github.event_name == 'release' || startsWith(github.ref, 'refs/tags/')) }}
+        uses: signpath/github-action-submit-signing-request@v1
+        with:
+          api-token: ${{ secrets.SIGNPATH_API_TOKEN }}
+          organization-id: ${{ vars.SIGNPATH_ORGANIZATION_ID }}
+          project-slug: ${{ vars.SIGNPATH_PROJECT_SLUG || 'harle-optimizer' }}
+          signing-policy-slug: ${{ vars.SIGNPATH_POLICY_SLUG || 'release-signing' }}
+          github-artifact-id: ${{ steps.upload.outputs.artifact-id }}
+          wait-for-completion: true
+          output-artifact-directory: signed
+
+      - name: Anexar na Release
+        if: ${{ github.event_name == 'release' || startsWith(github.ref, 'refs/tags/') }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name || github.ref_name }}
+        run: |
+          set -euo pipefail
+          mkdir -p rel
+          if [ -f signed/Harle.exe ]; then cp signed/Harle.exe rel/Harle.exe; signed="sim"; else cp out/Harle.exe rel/Harle.exe; signed="nao"; fi
+          (cd rel && sha256sum Harle.exe > Harle.exe.sha256)
+          hash=$(cut -d' ' -f1 rel/Harle.exe.sha256)
+          ver="${TAG#v}"
+          exists=0; gh release view "$TAG" >/dev/null 2>&1 && exists=1
+          if [ -f "releases/$ver.md" ]; then
+            cp "releases/$ver.md" body.md
+          elif [ "$exists" = 1 ]; then
+            # sem arquivo de novidades: mantem o texto escrito na Release, so troca o SHA-256 e o rodape
+            gh release view "$TAG" --json body -q .body | grep -v '^\*\*SHA-256:\*\*' | grep -v '^Assinado digitalmente' | grep -v '^_Compilado pelo GitHub Actions' > body.md || true
+          else
+            : > body.md
+          fi
+          {
+            echo "**SHA-256:** \`$hash\`"
+            if [ "$signed" = "sim" ]; then echo; echo "Assinado digitalmente (SignPath Foundation)."; fi
+            echo
+            cat body.md
+            echo
+            echo "_Compilado pelo GitHub Actions a partir do código deste repositório ([build]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID))._"
+          } > notes.md
+          if [ "$exists" = 1 ]; then
+            gh release upload "$TAG" rel/Harle.exe rel/Harle.exe.sha256 --clobber
+            gh release edit "$TAG" --notes-file notes.md
+          else
+            gh release create "$TAG" rel/Harle.exe rel/Harle.exe.sha256 --title "Harle Optimizer $ver" --notes-file notes.md --verify-tag
+          fi
+          echo "Release $TAG: SHA-256 $hash (assinado: $signed)"
+
+  # Kit de formatacao para baixar junto com o Harle: o Harle.exe da Release e os instaladores oficiais
+  # da Microsoft (Visual C++, DirectX, .NET), conferidos pela assinatura digital. Da para passar do celular
+  # para o PC e instalar tudo sem internet. Roda no Windows porque a conferencia da assinatura precisa dele.
+  kit:
+    needs: build
+    if: ${{ github.event_name == 'release' || startsWith(github.ref, 'refs/tags/') }}
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.release.tag_name || github.ref }}
+
+      - name: Montar e anexar o kit
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name || github.ref_name }}
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $ProgressPreference = 'SilentlyContinue'
+          $ver = $env:TAG -replace '^[vV]', ''
+          $kit = Join-Path $PWD 'kit/Harle-Kit'
+          New-Item -ItemType Directory -Path (Join-Path $kit 'Runtimes') -Force | Out-Null
+          New-Item -ItemType Directory -Path (Join-Path $kit 'Rede') -Force | Out-Null
+          Set-Content -Path (Join-Path $kit 'Rede/COLOQUE-O-3DP-NET-AQUI.txt') -Value 'Baixe o 3DP Net em www.3dpchip.com e coloque o arquivo .exe nesta pasta.'
+          gh release download $env:TAG -p Harle.exe -D $kit --clobber
+          # A lista de runtimes vem do proprio Harle.ps1, para o kit nunca sair diferente do app.
+          $ast = [System.Management.Automation.Language.Parser]::ParseFile((Resolve-Path 'Harle.ps1').Path, [ref]$null, [ref]$null)
+          $as = $ast.Find({ param($n) $n -is [System.Management.Automation.Language.AssignmentStatementAst] -and $n.Left.Extent.Text -eq '$script:Runtimes' }, $true)
+          $rts = & ([scriptblock]::Create($as.Right.Extent.Text))
+          $got = @()
+          foreach ($r in $rts) {
+              if (-not $r.Url) { continue }
+              $f = Join-Path (Join-Path $kit 'Runtimes') $r.File
+              try {
+                  Invoke-WebRequest -Uri $r.Url -OutFile $f -UseBasicParsing -TimeoutSec 600
+                  $sig = Get-AuthenticodeSignature -LiteralPath $f
+                  if ($sig.Status -ne 'Valid' -or $sig.SignerCertificate.Subject -notmatch 'O=Microsoft Corporation') { throw "assinatura: $($sig.Status) $($sig.SignerCertificate.Subject)" }
+                  $got += $r.Id
+                  "ok   $($r.Id)  $((Get-Item $f).Length / 1MB -as [int]) MB"
+              } catch {
+                  Remove-Item -LiteralPath $f -Force -ErrorAction SilentlyContinue
+                  Write-Warning "$($r.Id) ficou de fora: $($_.Exception.Message)"
+              }
+          }
+          $info = [ordered]@{ app = 'Harle Optimizer'; source = 'github'; version = $ver; created = (Get-Date).ToString('yyyy-MM-dd HH:mm'); pc = ''; windows = ''; drivers = 0; runtimes = $got }
+          [IO.File]::WriteAllText((Join-Path $kit 'kit.json'), ($info | ConvertTo-Json -Depth 3))
+          $leia = @(
+            "Harle Optimizer $ver - Kit de formatacao",
+            '',
+            '1. Extraia esta pasta inteira (pode ser no pendrive ou na Area de Trabalho).',
+            '2. Abra o Harle.exe que esta dentro dela.',
+            '3. Na aba Drivers, em Runtimes para jogos, clique em Instalar os marcados. Instala sem internet.',
+            '',
+            'Sem internet depois de formatar? Ligue o celular Android no PC pelo cabo USB e ative a Ancoragem USB',
+            '(Configuracoes > Rede/Conexoes > Roteador Wi-Fi e ancoragem). O Windows ja tem o driver para isso.',
+            '',
+            'Driver de rede para qualquer placa: baixe o 3DP Net no site oficial (www.3dpchip.com), tambem pelo celular,',
+            'e coloque o arquivo dentro da pasta Rede deste kit. O Harle mostra o botao Abrir o 3DP Net na aba Drivers.',
+            '(O 3DP Net nao vem neste zip porque a licenca dele nao permite redistribuir.)',
+            '',
+            "Os instaladores da pasta Runtimes sao os oficiais da Microsoft, com a assinatura digital conferida."
+          )
+          [IO.File]::WriteAllLines((Join-Path $kit 'LEIA-ME.txt'), $leia)
+          $zip = "Harle-Kit-$ver.zip"
+          Compress-Archive -Path $kit -DestinationPath $zip -CompressionLevel Optimal
+          $hash = (Get-FileHash $zip -Algorithm SHA256).Hash.ToLower()
+          "$hash  $zip" | Set-Content -Path "$zip.sha256" -Encoding ascii
+          gh release upload $env:TAG $zip "$zip.sha256" --clobber
+          $body = gh release view $env:TAG --json body -q .body
+          $line = "**Kit de formatação (Harle + runtimes, sem internet):** ``$zip``, SHA-256 ``$hash``"
+          $body = (($body -split "`n") | Where-Object { $_ -notmatch '^\*\*Kit de formatação' }) -join "`n"
+          $lines = $body -split "`n"
+          $out = @($lines[0], '', $line) + @($lines | Select-Object -Skip 1)
+          $out -join "`n" | Set-Content -Path notes.md -Encoding utf8
+          gh release edit $env:TAG --notes-file notes.md
+          "Kit $zip ($([int]((Get-Item $zip).Length / 1MB)) MB): $($got.Count) runtimes, SHA-256 $hash"
