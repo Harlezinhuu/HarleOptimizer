@@ -13,8 +13,8 @@ using System.Threading;
 [assembly: AssemblyDescription("Otimizador de Windows para jogos")]
 [assembly: AssemblyCompany("Harle")]
 [assembly: AssemblyCopyright("Uso pessoal")]
-[assembly: AssemblyVersion("3.6.0.0")]
-[assembly: AssemblyFileVersion("3.6.0.0")]
+[assembly: AssemblyVersion("3.6.1.0")]
+[assembly: AssemblyFileVersion("3.6.1.0")]
 [assembly: System.Runtime.Versioning.TargetFramework(".NETFramework,Version=v4.6.1", FrameworkDisplayName = ".NET Framework 4.6.1")]
 
 namespace Harle

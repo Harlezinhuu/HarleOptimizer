@@ -1,6 +1,6 @@
 ﻿#requires -Version 5.1
 <#
-    Harle Optimizer 3.6
+    Harle Optimizer 3.6.1
     Otimizador de Windows para jogos: scanner de hardware, ajustes de desempenho,
     registro, debloat, rede e limpeza. Tudo o que o Harle muda fica salvo em
     C:\ProgramData\Harle\backup.json e pode ser revertido pelo proprio app.
@@ -13,7 +13,7 @@
 param([switch]$SelfTest, [switch]$Elevated)
 
 $ProgressPreference = 'SilentlyContinue'
-$script:AppVersion  = '3.6'
+$script:AppVersion  = '3.6.1'
 # Repositorio do GitHub onde ficam as versoes novas, no formato usuario/repositorio. Vazio = nao confere.
 $script:UpdateRepo  = 'Harlezinhuu/HarleOptimizer'
 $script:DiscordUrl  = 'https://discord.gg/rDb9raznQ7'
@@ -8061,7 +8061,7 @@ function Update-MemView {
             [void]$bar.Children.Add($seg)
         }
         [void]$rows.Children.Add($bar)
-        $leg = New-Object System.Windows.Controls.UniformGrid
+        $leg = New-Object System.Windows.Controls.Primitives.UniformGrid
         $leg.Columns = 4
         for ($i = 0; $i -lt 4; $i++) {
             $sp = New-Object System.Windows.Controls.StackPanel
